@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Ehookabove.ss10;
+layers = (
+{
+components = (
+{
+name = E.ss10;
+},
+{
+name = hookabovecomb.case;
+transform = "{1, 0, 0, 1, 747, 380}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 778;
+}
+);
+}

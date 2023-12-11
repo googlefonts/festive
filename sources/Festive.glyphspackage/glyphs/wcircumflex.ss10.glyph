@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = wcircumflex.ss10;
+layers = (
+{
+components = (
+{
+name = w.ss10;
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 177, 13}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 567;
+}
+);
+}

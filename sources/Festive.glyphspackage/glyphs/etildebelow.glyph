@@ -1,0 +1,19 @@
+{
+glyphname = etildebelow;
+layers = (
+{
+components = (
+{
+name = e;
+},
+{
+name = tildebelowcomb;
+transform = "{1, 0, 0, 1, 31, 0}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 296;
+}
+);
+unicode = 1E1B;
+}

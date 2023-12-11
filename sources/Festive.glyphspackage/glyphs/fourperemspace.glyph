@@ -1,0 +1,17 @@
+{
+glyphname = fourperemspace;
+layers = (
+{
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 250;
+}
+);
+widthMetricsKey = "=250";
+unicode = 2005;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

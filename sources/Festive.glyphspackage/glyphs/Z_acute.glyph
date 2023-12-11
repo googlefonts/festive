@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Zacute;
+layers = (
+{
+background = {
+components = (
+{
+name = Z;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 509, 118}";
+}
+);
+};
+components = (
+{
+name = Z;
+},
+{
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, 440, 332}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 889;
+}
+);
+unicode = 0179;
+}

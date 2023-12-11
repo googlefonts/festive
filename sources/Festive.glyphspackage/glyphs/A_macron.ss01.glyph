@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = Amacron.ss01;
+layers = (
+{
+background = {
+components = (
+{
+name = A;
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 641, 413}";
+}
+);
+};
+components = (
+{
+name = A.ss01;
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 741, 303}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 1058;
+}
+);
+}

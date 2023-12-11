@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Edotbelow.ss08;
+layers = (
+{
+components = (
+{
+name = E.ss08;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 143, -323}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 680;
+}
+);
+}

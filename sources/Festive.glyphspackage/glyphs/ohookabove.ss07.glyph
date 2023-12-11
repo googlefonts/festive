@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = ohookabove.ss07;
+layers = (
+{
+background = {
+components = (
+{
+name = o;
+},
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 36, -111}";
+}
+);
+};
+components = (
+{
+name = o.ss07;
+},
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 196, 9}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 402;
+}
+);
+}

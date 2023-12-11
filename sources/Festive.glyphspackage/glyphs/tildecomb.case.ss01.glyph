@@ -1,0 +1,45 @@
+{
+glyphname = tildecomb.case.ss01;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{139, 370}";
+},
+{
+name = top;
+position = "{139, 504}";
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+position = "{139, 370}";
+},
+{
+name = top;
+position = "{139, 504}";
+}
+);
+components = (
+{
+alignment = -1;
+name = tilde;
+transform = "{0.8559, 0, 0, 1, 0, 29}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = tilde;
+transform = "{0.8559, 0, 0, 1, 0, 29}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 164;
+}
+);
+}

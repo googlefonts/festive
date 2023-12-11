@@ -1,0 +1,61 @@
+{
+color = 4;
+glyphname = idotless.ss03;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{55, 30}";
+},
+{
+name = ogonek;
+position = "{206, 62}";
+},
+{
+name = top;
+position = "{126, 429}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+paths = (
+{
+closed = 1;
+nodes = (
+"133 82 OFFCURVE",
+"146 95 OFFCURVE",
+"200 183 CURVE SMOOTH",
+"216 208 OFFCURVE",
+"230 232 OFFCURVE",
+"245 251 CURVE SMOOTH",
+"250 258 OFFCURVE",
+"245 262 OFFCURVE",
+"238 254 CURVE SMOOTH",
+"174 175 OFFCURVE",
+"126 114 OFFCURVE",
+"98 67 CURVE",
+"85 73 OFFCURVE",
+"79 104 OFFCURVE",
+"79 143 CURVE SMOOTH",
+"79 227 OFFCURVE",
+"104 352 OFFCURVE",
+"140 397 CURVE",
+"151 408 OFFCURVE",
+"103 443 OFFCURVE",
+"92 432 CURVE SMOOTH",
+"52 395 OFFCURVE",
+"31 270 OFFCURVE",
+"31 174 CURVE SMOOTH",
+"31 137 OFFCURVE",
+"34 104 OFFCURVE",
+"41 83 CURVE",
+"44 69 OFFCURVE",
+"111 30 OFFCURVE",
+"117 36 CURVE"
+);
+}
+);
+width = 200;
+}
+);
+}

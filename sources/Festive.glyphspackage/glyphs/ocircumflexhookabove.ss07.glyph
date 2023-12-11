@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = ocircumflexhookabove.ss07;
+layers = (
+{
+background = {
+components = (
+{
+name = o;
+},
+{
+name = circumflexcomb_hookabovecomb;
+transform = "{1, 0, 0, 1, 5, -116}";
+}
+);
+};
+components = (
+{
+name = o.ss07;
+},
+{
+name = circumflexcomb_hookabovecomb;
+transform = "{1, 0, 0, 1, 156, 9}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 402;
+}
+);
+}

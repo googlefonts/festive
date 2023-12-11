@@ -1,0 +1,50 @@
+{
+glyphname = periodcentered.ss11;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"217 227 OFFCURVE",
+"243 249 OFFCURVE",
+"243 277 CURVE SMOOTH",
+"243 306 OFFCURVE",
+"217 328 OFFCURVE",
+"184 328 CURVE SMOOTH",
+"152 328 OFFCURVE",
+"126 306 OFFCURVE",
+"126 277 CURVE SMOOTH",
+"126 249 OFFCURVE",
+"152 227 OFFCURVE",
+"184 227 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+paths = (
+{
+closed = 1;
+nodes = (
+"217 227 OFFCURVE",
+"243 249 OFFCURVE",
+"243 277 CURVE SMOOTH",
+"243 306 OFFCURVE",
+"217 328 OFFCURVE",
+"184 328 CURVE SMOOTH",
+"152 328 OFFCURVE",
+"126 306 OFFCURVE",
+"126 277 CURVE SMOOTH",
+"126 249 OFFCURVE",
+"152 227 OFFCURVE",
+"184 227 CURVE SMOOTH"
+);
+}
+);
+width = 294;
+}
+);
+note = periodcentered.001;
+}

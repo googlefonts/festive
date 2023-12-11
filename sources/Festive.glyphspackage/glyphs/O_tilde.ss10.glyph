@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Otilde.ss10;
+layers = (
+{
+components = (
+{
+name = O.ss10;
+},
+{
+name = tildecomb.case;
+transform = "{1, 0, 0, 1, 383, 442}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 845;
+}
+);
+}

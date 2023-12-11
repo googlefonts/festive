@@ -1,0 +1,42 @@
+{
+glyphname = grave.ss11;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"267 623 OFFCURVE",
+"322 634 OFFCURVE",
+"319 637 CURVE SMOOTH",
+"178 753 LINE SMOOTH",
+"162 767 OFFCURVE",
+"113 716 OFFCURVE",
+"129 705 CURVE SMOOTH",
+"261 626 LINE SMOOTH"
+);
+}
+);
+};
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+paths = (
+{
+closed = 1;
+nodes = (
+"267 623 OFFCURVE",
+"322 634 OFFCURVE",
+"319 637 CURVE SMOOTH",
+"178 753 LINE SMOOTH",
+"162 767 OFFCURVE",
+"113 716 OFFCURVE",
+"129 705 CURVE SMOOTH",
+"261 626 LINE SMOOTH"
+);
+}
+);
+width = 424;
+}
+);
+note = grave.001;
+}

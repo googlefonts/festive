@@ -1,0 +1,20 @@
+{
+color = 9;
+glyphname = Idblgrave;
+layers = (
+{
+components = (
+{
+name = I;
+},
+{
+name = dblgravecomb;
+transform = "{1, 0, 0, 1, 293, 245}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 599;
+}
+);
+unicode = 0208;
+}

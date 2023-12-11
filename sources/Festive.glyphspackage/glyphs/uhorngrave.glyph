@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = uhorngrave;
+layers = (
+{
+background = {
+components = (
+{
+name = uhorn;
+},
+{
+name = grave;
+transform = "{1, 0, 0, 1, 76, 0}";
+}
+);
+};
+components = (
+{
+name = uhorn;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 83, -10}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 364;
+}
+);
+unicode = 1EEB;
+}

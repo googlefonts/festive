@@ -1,0 +1,23 @@
+{
+color = 5;
+glyphname = Ecircumflexdotbelow.ss11;
+layers = (
+{
+components = (
+{
+name = E.ss11;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 319, 14}";
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 271, 335}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 700;
+}
+);
+}

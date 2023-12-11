@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = gmacron.ss04;
+layers = (
+{
+components = (
+{
+name = g.ss04;
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 149, 20}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 356;
+}
+);
+}

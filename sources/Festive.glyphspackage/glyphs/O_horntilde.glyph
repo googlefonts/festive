@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Ohorntilde;
+layers = (
+{
+background = {
+components = (
+{
+name = Ohorn;
+},
+{
+name = tilde;
+transform = "{1, 0, 0, 1, 223, 449}";
+}
+);
+};
+components = (
+{
+name = Ohorn;
+},
+{
+name = tildecomb.case;
+transform = "{1, 0, 0, 1, 313, 420}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 597;
+}
+);
+unicode = 1EE0;
+}

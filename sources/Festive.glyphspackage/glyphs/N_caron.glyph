@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Ncaron;
+layers = (
+{
+background = {
+components = (
+{
+name = N;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 771, 489}";
+}
+);
+};
+components = (
+{
+name = N;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 688, 430}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 1004;
+}
+);
+unicode = 0147;
+}

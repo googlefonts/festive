@@ -1,0 +1,20 @@
+{
+color = 9;
+glyphname = Cdotaccent;
+layers = (
+{
+components = (
+{
+name = C;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 436, 370}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 656;
+}
+);
+unicode = 010A;
+}

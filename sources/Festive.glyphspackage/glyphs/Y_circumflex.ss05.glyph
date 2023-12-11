@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Ycircumflex.ss05;
+layers = (
+{
+components = (
+{
+name = Y.ss05;
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 538, 385}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 854;
+}
+);
+}

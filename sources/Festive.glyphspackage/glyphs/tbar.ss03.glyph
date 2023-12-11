@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = tbar.ss03;
+layers = (
+{
+components = (
+{
+name = t.ss03;
+},
+{
+name = hyphen;
+transform = "{1.1, 0, 0, 1, -97, 98}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 306;
+}
+);
+}

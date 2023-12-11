@@ -1,0 +1,21 @@
+{
+glyphname = breve.ss11;
+layers = (
+{
+background = {
+components = (
+{
+name = brevecomb;
+}
+);
+};
+components = (
+{
+name = brevecomb;
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 372;
+}
+);
+}

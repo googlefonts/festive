@@ -1,0 +1,17 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 513;
+}
+);
+widthMetricsKey = "=zero";
+unicode = 2007;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

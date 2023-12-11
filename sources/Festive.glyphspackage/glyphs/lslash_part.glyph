@@ -1,0 +1,48 @@
+{
+glyphname = lslash_part;
+layers = (
+{
+anchors = (
+{
+name = _lslash;
+position = "{99, 266}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+paths = (
+{
+closed = 1;
+nodes = (
+"94 248 OFFCURVE",
+"198 283 OFFCURVE",
+"213 292 CURVE SMOOTH",
+"227 301 OFFCURVE",
+"234 307 OFFCURVE",
+"234 311 CURVE SMOOTH",
+"234 312 OFFCURVE",
+"232 313 OFFCURVE",
+"229 313 CURVE SMOOTH",
+"225 313 OFFCURVE",
+"219 312 OFFCURVE",
+"212 309 CURVE SMOOTH",
+"185 298 OFFCURVE",
+"139 288 OFFCURVE",
+"92 277 CURVE",
+"71 270 OFFCURVE",
+"2 253 OFFCURVE",
+"-10 246 CURVE",
+"-29 238 OFFCURVE",
+"-43 219 OFFCURVE",
+"-35 218 CURVE SMOOTH",
+"-23 217 OFFCURVE",
+"6 223 OFFCURVE",
+"41 232 CURVE"
+);
+}
+);
+width = 186;
+}
+);
+leftMetricsKey = lslash;
+rightMetricsKey = lslash;
+}

@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = ncircumflexbelow;
+layers = (
+{
+components = (
+{
+name = n;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 51, 0}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 345;
+}
+);
+unicode = 1E4B;
+}

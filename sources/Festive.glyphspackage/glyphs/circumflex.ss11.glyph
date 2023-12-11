@@ -1,0 +1,21 @@
+{
+glyphname = circumflex.ss11;
+layers = (
+{
+background = {
+components = (
+{
+name = circumflexcomb;
+}
+);
+};
+components = (
+{
+name = circumflexcomb;
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 280;
+}
+);
+}

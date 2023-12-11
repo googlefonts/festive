@@ -1,0 +1,95 @@
+{
+color = 9;
+glyphname = macronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{97, 0}";
+},
+{
+name = bottom;
+position = "{97, -149}";
+}
+);
+background = {
+anchors = (
+{
+name = _top;
+position = "{88, -208}";
+},
+{
+name = top;
+position = "{88, -133}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"121 -149 OFFCURVE",
+"160 -146 OFFCURVE",
+"175 -142 CURVE SMOOTH",
+"188 -137 OFFCURVE",
+"194 -133 OFFCURVE",
+"194 -129 CURVE SMOOTH",
+"194 -124 OFFCURVE",
+"184 -121 OFFCURVE",
+"172 -121 CURVE SMOOTH",
+"139 -122 OFFCURVE",
+"97 -118 OFFCURVE",
+"59 -118 CURVE SMOOTH",
+"42 -118 OFFCURVE",
+"25 -118 OFFCURVE",
+"11 -121 CURVE SMOOTH",
+"3 -123 OFFCURVE",
+"0 -127 OFFCURVE",
+"0 -132 CURVE SMOOTH",
+"0 -136 OFFCURVE",
+"2 -140 OFFCURVE",
+"5 -141 CURVE SMOOTH",
+"18 -147 OFFCURVE",
+"50 -149 OFFCURVE",
+"83 -149 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 -149 OFFCURVE",
+"160 -146 OFFCURVE",
+"175 -142 CURVE SMOOTH",
+"188 -137 OFFCURVE",
+"194 -133 OFFCURVE",
+"194 -129 CURVE SMOOTH",
+"194 -124 OFFCURVE",
+"184 -121 OFFCURVE",
+"172 -121 CURVE SMOOTH",
+"139 -122 OFFCURVE",
+"97 -118 OFFCURVE",
+"59 -118 CURVE SMOOTH",
+"42 -118 OFFCURVE",
+"25 -118 OFFCURVE",
+"11 -121 CURVE SMOOTH",
+"3 -123 OFFCURVE",
+"0 -127 OFFCURVE",
+"0 -132 CURVE SMOOTH",
+"0 -136 OFFCURVE",
+"2 -140 OFFCURVE",
+"5 -141 CURVE SMOOTH",
+"18 -147 OFFCURVE",
+"50 -149 OFFCURVE",
+"83 -149 CURVE SMOOTH"
+);
+}
+);
+width = 194;
+}
+);
+unicode = 0331;
+}

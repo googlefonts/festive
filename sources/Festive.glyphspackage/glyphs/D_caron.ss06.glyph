@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Dcaron.ss06;
+layers = (
+{
+components = (
+{
+name = D.ss06;
+},
+{
+name = caroncomb;
+transform = "{1, 0, 0, 1, 677, 374}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 901;
+}
+);
+}

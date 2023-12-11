@@ -1,0 +1,42 @@
+{
+glyphname = acute.ss11;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"307 705 LINE SMOOTH",
+"323 716 OFFCURVE",
+"274 767 OFFCURVE",
+"258 753 CURVE SMOOTH",
+"117 637 LINE",
+"112 635 OFFCURVE",
+"169 623 OFFCURVE",
+"175 626 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+paths = (
+{
+closed = 1;
+nodes = (
+"307 705 LINE SMOOTH",
+"323 716 OFFCURVE",
+"274 767 OFFCURVE",
+"258 753 CURVE SMOOTH",
+"117 637 LINE",
+"112 635 OFFCURVE",
+"169 623 OFFCURVE",
+"175 626 CURVE SMOOTH"
+);
+}
+);
+width = 424;
+}
+);
+note = acute.001;
+}

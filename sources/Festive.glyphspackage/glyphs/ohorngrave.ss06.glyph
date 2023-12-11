@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = ohorngrave.ss06;
+layers = (
+{
+background = {
+components = (
+{
+name = ohorn;
+},
+{
+name = grave;
+transform = "{1, 0, 0, 1, 48, 82}";
+}
+);
+};
+components = (
+{
+name = ohorn.ss06;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 134, 45}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 344;
+}
+);
+}

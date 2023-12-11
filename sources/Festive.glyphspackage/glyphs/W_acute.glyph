@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Wacute;
+layers = (
+{
+background = {
+components = (
+{
+name = W;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 511, 158}";
+}
+);
+};
+components = (
+{
+name = W;
+},
+{
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, 616, 365}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 862;
+}
+);
+unicode = 1E82;
+}
