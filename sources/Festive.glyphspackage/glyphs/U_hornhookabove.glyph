@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Uhornhookabove;
+layers = (
+{
+background = {
+components = (
+{
+name = Uhorn;
+},
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 411, 197}";
+}
+);
+};
+components = (
+{
+name = Uhorn;
+},
+{
+name = hookabovecomb;
+transform = "{1, 0, 0, 1, 473, 400}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 679;
+}
+);
+unicode = 1EEC;
+}

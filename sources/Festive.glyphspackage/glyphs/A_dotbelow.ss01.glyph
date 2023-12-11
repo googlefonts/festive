@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = Adotbelow.ss01;
+layers = (
+{
+background = {
+components = (
+{
+name = A;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 240, 59}";
+}
+);
+};
+components = (
+{
+name = A.ss01;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 687, 0}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 1058;
+}
+);
+}

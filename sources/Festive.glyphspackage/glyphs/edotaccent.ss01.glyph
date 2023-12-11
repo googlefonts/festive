@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = edotaccent.ss01;
+layers = (
+{
+background = {
+components = (
+{
+name = e;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 96, 70}";
+}
+);
+};
+components = (
+{
+name = e.ss01;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 157, 4}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 277;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = ddotbelow.ss07;
+layers = (
+{
+components = (
+{
+name = d.ss07;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 111, -12}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 438;
+}
+);
+}

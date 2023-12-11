@@ -1,0 +1,20 @@
+{
+color = 3;
+glyphname = Ecircumflexbelow;
+layers = (
+{
+components = (
+{
+name = E;
+},
+{
+name = circumflexbelowcomb;
+transform = "{1, 0, 0, 1, 395, 0}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 778;
+}
+);
+unicode = 1E18;
+}

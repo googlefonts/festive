@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Uhorndotbelow.ss10;
+layers = (
+{
+components = (
+{
+name = Uhorn;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 299, 0}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 679;
+}
+);
+}

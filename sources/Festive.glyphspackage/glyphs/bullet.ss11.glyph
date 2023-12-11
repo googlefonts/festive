@@ -1,0 +1,56 @@
+{
+glyphname = bullet.ss11;
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"407 33 OFFCURVE",
+"507 144 OFFCURVE",
+"507 280 CURVE SMOOTH",
+"507 416 OFFCURVE",
+"407 527 OFFCURVE",
+"287 527 CURVE SMOOTH",
+"167 527 OFFCURVE",
+"67 416 OFFCURVE",
+"67 280 CURVE SMOOTH",
+"67 144 OFFCURVE",
+"167 33 OFFCURVE",
+"287 33 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+paths = (
+{
+closed = 1;
+nodes = (
+"407 33 OFFCURVE",
+"507 144 OFFCURVE",
+"507 280 CURVE SMOOTH",
+"507 416 OFFCURVE",
+"407 527 OFFCURVE",
+"287 527 CURVE SMOOTH",
+"167 527 OFFCURVE",
+"67 416 OFFCURVE",
+"67 280 CURVE SMOOTH",
+"67 144 OFFCURVE",
+"167 33 OFFCURVE",
+"287 33 CURVE SMOOTH"
+);
+}
+);
+width = 604;
+}
+);
+note = bullet.001;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

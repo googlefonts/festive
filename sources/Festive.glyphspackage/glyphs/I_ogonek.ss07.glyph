@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Iogonek.ss07;
+layers = (
+{
+components = (
+{
+name = I.ss07;
+},
+{
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 431, -26}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 683;
+}
+);
+}

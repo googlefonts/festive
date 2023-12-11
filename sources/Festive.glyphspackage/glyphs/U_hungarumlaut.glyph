@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Uhungarumlaut;
+layers = (
+{
+background = {
+components = (
+{
+name = U;
+},
+{
+name = hungarumlautcomb;
+transform = "{1, 0, 0, 1, 388, 464}";
+}
+);
+};
+components = (
+{
+name = U;
+},
+{
+name = hungarumlautcomb;
+transform = "{1, 0, 0, 1, 469, 400}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 679;
+}
+);
+unicode = 0170;
+}

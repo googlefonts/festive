@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = gbreve.ss11;
+layers = (
+{
+components = (
+{
+name = g.ss11;
+},
+{
+name = brevecomb;
+transform = "{1, 0, 0, 1, 263, 244}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 600;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = gcommaaccent.ss05;
+layers = (
+{
+components = (
+{
+name = g.ss05;
+},
+{
+name = commaturnedabovecomb;
+transform = "{1, 0, 0, 1, 167, 7}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 380;
+}
+);
+}

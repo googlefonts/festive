@@ -1,0 +1,23 @@
+{
+color = 4;
+glyphname = Dcroat;
+layers = (
+{
+background = {
+components = (
+{
+name = Eth;
+}
+);
+};
+components = (
+{
+name = Eth;
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 698;
+}
+);
+unicode = 0110;
+}

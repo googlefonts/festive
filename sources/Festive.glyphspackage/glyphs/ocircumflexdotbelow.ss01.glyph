@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = ocircumflexdotbelow.ss01;
+layers = (
+{
+background = {
+components = (
+{
+name = o;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 69, 136}";
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 0, -94}";
+}
+);
+};
+components = (
+{
+name = o.ss01;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 96, 15}";
+},
+{
+name = circumflexcomb;
+transform = "{1, 0, 0, 1, 117, 69}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 376;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Ngrave.ss05;
+layers = (
+{
+components = (
+{
+name = N.ss05;
+},
+{
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 846, 414}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 1060;
+}
+);
+}

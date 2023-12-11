@@ -1,0 +1,34 @@
+{
+color = 5;
+glyphname = Ecircumflextilde.ss01;
+layers = (
+{
+background = {
+components = (
+{
+name = E;
+},
+{
+name = circumflexcomb_tildecomb;
+transform = "{1, 0, 0, 1, 460, 85}";
+}
+);
+};
+components = (
+{
+name = E.ss01;
+},
+{
+name = circumflexcomb.case.ss01;
+transform = "{1, 0, 0, 1, 557, 272}";
+},
+{
+name = tildecomb.case.ss01;
+transform = "{1, 0, 0, 1, 504, 376}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 778;
+}
+);
+}

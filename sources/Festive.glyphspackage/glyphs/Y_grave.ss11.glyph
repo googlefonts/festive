@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Ygrave.ss11;
+layers = (
+{
+components = (
+{
+name = Y.ss11;
+},
+{
+name = gravecomb.case;
+transform = "{1, 0, 0, 1, 235, 337}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 685;
+}
+);
+}

@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = gdotaccent.ss02;
+layers = (
+{
+components = (
+{
+name = g.ss02;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 217, 6}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 380;
+}
+);
+}

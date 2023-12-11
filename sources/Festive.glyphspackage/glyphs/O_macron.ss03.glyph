@@ -1,0 +1,19 @@
+{
+color = 5;
+glyphname = Omacron.ss03;
+layers = (
+{
+components = (
+{
+name = O.ss03;
+},
+{
+name = macroncomb;
+transform = "{1, 0, 0, 1, 409, 375}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 845;
+}
+);
+}

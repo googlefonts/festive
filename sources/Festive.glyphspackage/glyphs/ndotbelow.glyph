@@ -1,0 +1,20 @@
+{
+color = 5;
+glyphname = ndotbelow;
+layers = (
+{
+components = (
+{
+name = n;
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 117, 0}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 345;
+}
+);
+unicode = 1E47;
+}

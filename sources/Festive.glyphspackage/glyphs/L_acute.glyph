@@ -1,0 +1,31 @@
+{
+color = 5;
+glyphname = Lacute;
+layers = (
+{
+background = {
+components = (
+{
+name = L;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, 612, 191}";
+}
+);
+};
+components = (
+{
+name = L;
+},
+{
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, 579, 404}";
+}
+);
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+width = 701;
+}
+);
+unicode = 0139;
+}
