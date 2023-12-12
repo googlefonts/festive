@@ -4,28 +4,44 @@ glyphname = eogonek;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = e;
+ref = e;
 },
 {
-name = ogonekcomb;
-transform = "{1, 0, 0, 1, 32, 0}";
+pos = (32,0);
+ref = ogonekcomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = e;
+ref = e;
 },
 {
-name = ogonekcomb;
-transform = "{1, 0, 0, 1, 160, 3}";
+pos = (160,3);
+ref = ogonekcomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 296;
 }
 );
-unicode = 0119;
+unicode = 281;
 }

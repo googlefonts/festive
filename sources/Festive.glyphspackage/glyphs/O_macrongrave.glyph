@@ -2,22 +2,38 @@
 glyphname = Omacrongrave;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = O;
+ref = O;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 312, 451}";
+pos = (312,451);
+ref = macroncomb;
 },
 {
-name = gravecomb.case;
-transform = "{1, 0, 0, 1, 299, 526}";
+pos = (299,526);
+ref = gravecomb.case;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 597;
 }
 );
-unicode = 1E50;
+unicode = 7760;
 }

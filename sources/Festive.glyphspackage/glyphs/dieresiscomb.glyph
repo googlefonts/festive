@@ -6,100 +6,116 @@ layers = (
 anchors = (
 {
 name = _top;
-position = "{99, 370}";
+pos = (99,370);
 },
 {
 name = top;
-position = "{99, 480}";
+pos = (99,480);
 }
 );
 background = {
 anchors = (
 {
 name = _top;
-position = "{99, 370}";
+pos = (99,370);
 },
 {
 name = top;
-position = "{99, 497}";
+pos = (99,497);
 }
 );
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"175 421 OFFCURVE",
-"198 438 OFFCURVE",
-"198 459 CURVE SMOOTH",
-"198 480 OFFCURVE",
-"188 497 OFFCURVE",
-"167 497 CURVE SMOOTH",
-"146 497 OFFCURVE",
-"122 480 OFFCURVE",
-"122 459 CURVE SMOOTH",
-"122 438 OFFCURVE",
-"131 421 OFFCURVE",
-"152 421 CURVE SMOOTH"
+(175,421,o),
+(198,438,o),
+(198,459,cs),
+(198,480,o),
+(188,497,o),
+(167,497,cs),
+(146,497,o),
+(122,480,o),
+(122,459,cs),
+(122,438,o),
+(131,421,o),
+(152,421,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"53 421 OFFCURVE",
-"76 438 OFFCURVE",
-"76 459 CURVE SMOOTH",
-"76 480 OFFCURVE",
-"66 497 OFFCURVE",
-"45 497 CURVE SMOOTH",
-"24 497 OFFCURVE",
-"0 480 OFFCURVE",
-"0 459 CURVE SMOOTH",
-"0 438 OFFCURVE",
-"9 421 OFFCURVE",
-"30 421 CURVE SMOOTH"
+(53,421,o),
+(76,438,o),
+(76,459,cs),
+(76,480,o),
+(66,497,o),
+(45,497,cs),
+(24,497,o),
+(0,480,o),
+(0,459,cs),
+(0,438,o),
+(9,421,o),
+(30,421,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"175 421 OFFCURVE",
-"198 438 OFFCURVE",
-"198 459 CURVE SMOOTH",
-"198 480 OFFCURVE",
-"188 497 OFFCURVE",
-"167 497 CURVE SMOOTH",
-"146 497 OFFCURVE",
-"122 480 OFFCURVE",
-"122 459 CURVE SMOOTH",
-"122 438 OFFCURVE",
-"131 421 OFFCURVE",
-"152 421 CURVE SMOOTH"
+(175,421,o),
+(198,438,o),
+(198,459,cs),
+(198,480,o),
+(188,497,o),
+(167,497,cs),
+(146,497,o),
+(122,480,o),
+(122,459,cs),
+(122,438,o),
+(131,421,o),
+(152,421,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"53 421 OFFCURVE",
-"76 438 OFFCURVE",
-"76 459 CURVE SMOOTH",
-"76 480 OFFCURVE",
-"66 497 OFFCURVE",
-"45 497 CURVE SMOOTH",
-"24 497 OFFCURVE",
-"0 480 OFFCURVE",
-"0 459 CURVE SMOOTH",
-"0 438 OFFCURVE",
-"9 421 OFFCURVE",
-"30 421 CURVE SMOOTH"
+(53,421,o),
+(76,438,o),
+(76,459,cs),
+(76,480,o),
+(66,497,o),
+(45,497,cs),
+(24,497,o),
+(0,480,o),
+(0,459,cs),
+(0,438,o),
+(9,421,o),
+(30,421,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 198;
 }
 );
-unicode = 0308;
+unicode = 776;
 }

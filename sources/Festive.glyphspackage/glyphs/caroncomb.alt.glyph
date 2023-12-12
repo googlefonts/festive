@@ -6,68 +6,84 @@ layers = (
 anchors = (
 {
 name = _topright;
-position = "{-42, 676}";
+pos = (-42,676);
 }
 );
 background = {
 anchors = (
 {
 name = _topright;
-position = "{-42, 370}";
+pos = (-42,370);
 }
 );
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"1 217 OFFCURVE",
-"3 214 OFFCURVE",
-"6 214 CURVE SMOOTH",
-"9 214 OFFCURVE",
-"14 218 OFFCURVE",
-"16 228 CURVE SMOOTH",
-"24 256 OFFCURVE",
-"35 287 OFFCURVE",
-"35 317 CURVE SMOOTH",
-"35 340 OFFCURVE",
-"29 370 OFFCURVE",
-"9 370 CURVE SMOOTH",
-"1 370 OFFCURVE",
-"-4 362 OFFCURVE",
-"-4 349 CURVE SMOOTH",
-"-4 309 OFFCURVE",
-"1 268 OFFCURVE",
-"1 223 CURVE SMOOTH"
+(1,217,o),
+(3,214,o),
+(6,214,cs),
+(9,214,o),
+(14,218,o),
+(16,228,cs),
+(24,256,o),
+(35,287,o),
+(35,317,cs),
+(35,340,o),
+(29,370,o),
+(9,370,cs),
+(1,370,o),
+(-4,362,o),
+(-4,349,cs),
+(-4,309,o),
+(1,268,o),
+(1,223,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"-1 527 OFFCURVE",
-"0 524 OFFCURVE",
-"3 523 CURVE SMOOTH",
-"6 523 OFFCURVE",
-"11 526 OFFCURVE",
-"16 535 CURVE SMOOTH",
-"29 561 OFFCURVE",
-"46 589 OFFCURVE",
-"53 618 CURVE SMOOTH",
-"57 641 OFFCURVE",
-"58 671 OFFCURVE",
-"38 675 CURVE SMOOTH",
-"30 677 OFFCURVE",
-"24 670 OFFCURVE",
-"21 658 CURVE SMOOTH",
-"13 618 OFFCURVE",
-"9 577 OFFCURVE",
-"0 533 CURVE SMOOTH"
+(-1,527,o),
+(0,524,o),
+(3,523,cs),
+(6,523,o),
+(11,526,o),
+(16,535,cs),
+(29,561,o),
+(46,589,o),
+(53,618,cs),
+(57,641,o),
+(58,671,o),
+(38,675,cs),
+(30,677,o),
+(24,670,o),
+(21,658,cs),
+(13,618,o),
+(9,577,o),
+(0,533,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 55;
 }
 );

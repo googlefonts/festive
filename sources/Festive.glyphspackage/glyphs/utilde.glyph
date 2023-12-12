@@ -4,28 +4,44 @@ glyphname = utilde;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = u;
+ref = u;
 },
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 0, -136}";
+pos = (0,-136);
+ref = tildecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = u;
+ref = u;
 },
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 93, -23}";
+pos = (93,-23);
+ref = tildecomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 364;
 }
 );
-unicode = 0169;
+unicode = 361;
 }

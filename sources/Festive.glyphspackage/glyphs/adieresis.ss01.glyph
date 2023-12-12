@@ -4,136 +4,152 @@ glyphname = adieresis.ss01;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"98 1 OFFCURVE",
-"175 102 OFFCURVE",
-"215 183 CURVE",
-"226 124 OFFCURVE",
-"246 70 OFFCURVE",
-"293 27 CURVE SMOOTH",
-"310 12 OFFCURVE",
-"330 5 OFFCURVE",
-"352 5 CURVE SMOOTH",
-"371 5 OFFCURVE",
-"392 10 OFFCURVE",
-"412 19 CURVE SMOOTH",
-"416 20 OFFCURVE",
-"420 25 OFFCURVE",
-"420 27 CURVE SMOOTH",
-"420 28 OFFCURVE",
-"420 29 OFFCURVE",
-"418 29 CURVE SMOOTH",
-"416 29 OFFCURVE",
-"414 29 OFFCURVE",
-"410 27 CURVE SMOOTH",
-"404 25 OFFCURVE",
-"398 23 OFFCURVE",
-"392 23 CURVE SMOOTH",
-"379 23 OFFCURVE",
-"366 29 OFFCURVE",
-"353 41 CURVE SMOOTH",
-"300 89 OFFCURVE",
-"264 221 OFFCURVE",
-"261 288 CURVE",
-"263 300 OFFCURVE",
-"207 259 OFFCURVE",
-"207 248 CURVE SMOOTH",
-"208 232 OFFCURVE",
-"209 216 OFFCURVE",
-"212 200 CURVE",
-"175 125 OFFCURVE",
-"86 14 OFFCURVE",
-"41 14 CURVE SMOOTH",
-"34 14 OFFCURVE",
-"31 22 OFFCURVE",
-"31 36 CURVE SMOOTH",
-"31 52 OFFCURVE",
-"35 75 OFFCURVE",
-"42 101 CURVE SMOOTH",
-"63 180 OFFCURVE",
-"114 336 OFFCURVE",
-"222 352 CURVE SMOOTH",
-"231 353 OFFCURVE",
-"235 346 OFFCURVE",
-"235 335 CURVE SMOOTH",
-"235 311 OFFCURVE",
-"213 293 OFFCURVE",
-"190 293 CURVE SMOOTH",
-"182 293 OFFCURVE",
-"179 287 OFFCURVE",
-"198 287 CURVE SMOOTH",
-"204 287 OFFCURVE",
-"210 288 OFFCURVE",
-"216 289 CURVE SMOOTH",
-"246 296 OFFCURVE",
-"264 315 OFFCURVE",
-"264 332 CURVE SMOOTH",
-"264 352 OFFCURVE",
-"231 370 OFFCURVE",
-"198 370 CURVE SMOOTH",
-"70 365 OFFCURVE",
-"15 246 OFFCURVE",
-"-14 167 CURVE SMOOTH",
-"-21 151 OFFCURVE",
-"-25 124 OFFCURVE",
-"-25 97 CURVE SMOOTH",
-"-25 59 OFFCURVE",
-"-16 22 OFFCURVE",
-"10 16 CURVE",
-"21 8 OFFCURVE",
-"34 1 OFFCURVE",
-"39 1 CURVE SMOOTH"
+(98,1,o),
+(175,102,o),
+(215,183,c),
+(226,124,o),
+(246,70,o),
+(293,27,cs),
+(310,12,o),
+(330,5,o),
+(352,5,cs),
+(371,5,o),
+(392,10,o),
+(412,19,cs),
+(416,20,o),
+(420,25,o),
+(420,27,cs),
+(420,28,o),
+(420,29,o),
+(418,29,cs),
+(416,29,o),
+(414,29,o),
+(410,27,cs),
+(404,25,o),
+(398,23,o),
+(392,23,cs),
+(379,23,o),
+(366,29,o),
+(353,41,cs),
+(300,89,o),
+(264,221,o),
+(261,288,c),
+(263,300,o),
+(207,259,o),
+(207,248,cs),
+(208,232,o),
+(209,216,o),
+(212,200,c),
+(175,125,o),
+(86,14,o),
+(41,14,cs),
+(34,14,o),
+(31,22,o),
+(31,36,cs),
+(31,52,o),
+(35,75,o),
+(42,101,cs),
+(63,180,o),
+(114,336,o),
+(222,352,cs),
+(231,353,o),
+(235,346,o),
+(235,335,cs),
+(235,311,o),
+(213,293,o),
+(190,293,cs),
+(182,293,o),
+(179,287,o),
+(198,287,cs),
+(204,287,o),
+(210,288,o),
+(216,289,cs),
+(246,296,o),
+(264,315,o),
+(264,332,cs),
+(264,352,o),
+(231,370,o),
+(198,370,cs),
+(70,365,o),
+(15,246,o),
+(-14,167,cs),
+(-21,151,o),
+(-25,124,o),
+(-25,97,cs),
+(-25,59,o),
+(-16,22,o),
+(10,16,c),
+(21,8,o),
+(34,1,o),
+(39,1,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"148 446 OFFCURVE",
-"171 463 OFFCURVE",
-"171 484 CURVE SMOOTH",
-"171 505 OFFCURVE",
-"161 522 OFFCURVE",
-"140 522 CURVE SMOOTH",
-"119 522 OFFCURVE",
-"95 505 OFFCURVE",
-"95 484 CURVE SMOOTH",
-"95 463 OFFCURVE",
-"104 446 OFFCURVE",
-"125 446 CURVE SMOOTH"
+(148,446,o),
+(171,463,o),
+(171,484,cs),
+(171,505,o),
+(161,522,o),
+(140,522,cs),
+(119,522,o),
+(95,505,o),
+(95,484,cs),
+(95,463,o),
+(104,446,o),
+(125,446,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"270 446 OFFCURVE",
-"293 463 OFFCURVE",
-"293 484 CURVE SMOOTH",
-"293 505 OFFCURVE",
-"283 522 OFFCURVE",
-"262 522 CURVE SMOOTH",
-"241 522 OFFCURVE",
-"217 505 OFFCURVE",
-"217 484 CURVE SMOOTH",
-"217 463 OFFCURVE",
-"226 446 OFFCURVE",
-"247 446 CURVE SMOOTH"
+(270,446,o),
+(293,463,o),
+(293,484,cs),
+(293,505,o),
+(283,522,o),
+(262,522,cs),
+(241,522,o),
+(217,505,o),
+(217,484,cs),
+(217,463,o),
+(226,446,o),
+(247,446,cs)
 );
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = a.ss01;
+ref = a.ss01;
 },
 {
-name = dieresiscomb;
-transform = "{1, 0, 0, 1, 120, -10}";
+pos = (120,-10);
+ref = dieresiscomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 438;
 }
 );

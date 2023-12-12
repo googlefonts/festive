@@ -4,58 +4,74 @@ glyphname = caron.alt;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"193 217 OFFCURVE",
-"195 214 OFFCURVE",
-"198 214 CURVE SMOOTH",
-"201 214 OFFCURVE",
-"206 218 OFFCURVE",
-"208 228 CURVE SMOOTH",
-"216 256 OFFCURVE",
-"227 287 OFFCURVE",
-"227 317 CURVE SMOOTH",
-"227 340 OFFCURVE",
-"221 370 OFFCURVE",
-"201 370 CURVE SMOOTH",
-"193 370 OFFCURVE",
-"188 362 OFFCURVE",
-"188 349 CURVE SMOOTH",
-"188 309 OFFCURVE",
-"193 268 OFFCURVE",
-"193 223 CURVE SMOOTH"
+(193,217,o),
+(195,214,o),
+(198,214,cs),
+(201,214,o),
+(206,218,o),
+(208,228,cs),
+(216,256,o),
+(227,287,o),
+(227,317,cs),
+(227,340,o),
+(221,370,o),
+(201,370,cs),
+(193,370,o),
+(188,362,o),
+(188,349,cs),
+(188,309,o),
+(193,268,o),
+(193,223,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"193 217 OFFCURVE",
-"195 214 OFFCURVE",
-"198 214 CURVE SMOOTH",
-"201 214 OFFCURVE",
-"206 218 OFFCURVE",
-"208 228 CURVE SMOOTH",
-"216 256 OFFCURVE",
-"227 287 OFFCURVE",
-"227 317 CURVE SMOOTH",
-"227 340 OFFCURVE",
-"221 370 OFFCURVE",
-"201 370 CURVE SMOOTH",
-"193 370 OFFCURVE",
-"188 362 OFFCURVE",
-"188 349 CURVE SMOOTH",
-"188 309 OFFCURVE",
-"193 268 OFFCURVE",
-"193 223 CURVE SMOOTH"
+(193,217,o),
+(195,214,o),
+(198,214,cs),
+(201,214,o),
+(206,218,o),
+(208,228,cs),
+(216,256,o),
+(227,287,o),
+(227,317,cs),
+(227,340,o),
+(221,370,o),
+(201,370,cs),
+(193,370,o),
+(188,362,o),
+(188,349,cs),
+(188,309,o),
+(193,268,o),
+(193,223,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 392;
 }
 );

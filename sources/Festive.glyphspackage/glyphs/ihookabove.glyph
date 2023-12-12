@@ -4,28 +4,44 @@ glyphname = ihookabove;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = idotless;
+ref = idotless;
 },
 {
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 0, -207}";
+pos = (0,-207);
+ref = hookabovecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = idotless;
+ref = idotless;
 },
 {
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 42, -52}";
+pos = (42,-52);
+ref = hookabovecomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 200;
 }
 );
-unicode = 1EC9;
+unicode = 7881;
 }

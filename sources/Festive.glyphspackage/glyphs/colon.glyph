@@ -3,85 +3,101 @@ glyphname = colon;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"179 209 OFFCURVE",
-"212 232 OFFCURVE",
-"212 261 CURVE SMOOTH",
-"212 290 OFFCURVE",
-"199 313 OFFCURVE",
-"170 313 CURVE SMOOTH",
-"141 313 OFFCURVE",
-"108 290 OFFCURVE",
-"108 261 CURVE SMOOTH",
-"108 232 OFFCURVE",
-"121 209 OFFCURVE",
-"150 209 CURVE SMOOTH"
+(179,209,o),
+(212,232,o),
+(212,261,cs),
+(212,290,o),
+(199,313,o),
+(170,313,cs),
+(141,313,o),
+(108,290,o),
+(108,261,cs),
+(108,232,o),
+(121,209,o),
+(150,209,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"166 1 OFFCURVE",
-"199 24 OFFCURVE",
-"199 53 CURVE SMOOTH",
-"199 82 OFFCURVE",
-"186 105 OFFCURVE",
-"157 105 CURVE SMOOTH",
-"128 105 OFFCURVE",
-"95 82 OFFCURVE",
-"95 53 CURVE SMOOTH",
-"95 24 OFFCURVE",
-"108 1 OFFCURVE",
-"137 1 CURVE SMOOTH"
+(166,1,o),
+(199,24,o),
+(199,53,cs),
+(199,82,o),
+(186,105,o),
+(157,105,cs),
+(128,105,o),
+(95,82,o),
+(95,53,cs),
+(95,24,o),
+(108,1,o),
+(137,1,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"179 209 OFFCURVE",
-"212 232 OFFCURVE",
-"212 261 CURVE SMOOTH",
-"212 290 OFFCURVE",
-"199 313 OFFCURVE",
-"170 313 CURVE SMOOTH",
-"141 313 OFFCURVE",
-"108 290 OFFCURVE",
-"108 261 CURVE SMOOTH",
-"108 232 OFFCURVE",
-"121 209 OFFCURVE",
-"150 209 CURVE SMOOTH"
+(179,209,o),
+(212,232,o),
+(212,261,cs),
+(212,290,o),
+(199,313,o),
+(170,313,cs),
+(141,313,o),
+(108,290,o),
+(108,261,cs),
+(108,232,o),
+(121,209,o),
+(150,209,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"166 1 OFFCURVE",
-"199 24 OFFCURVE",
-"199 53 CURVE SMOOTH",
-"199 82 OFFCURVE",
-"186 105 OFFCURVE",
-"157 105 CURVE SMOOTH",
-"128 105 OFFCURVE",
-"95 82 OFFCURVE",
-"95 53 CURVE SMOOTH",
-"95 24 OFFCURVE",
-"108 1 OFFCURVE",
-"137 1 CURVE SMOOTH"
+(166,1,o),
+(199,24,o),
+(199,53,cs),
+(199,82,o),
+(186,105,o),
+(157,105,cs),
+(128,105,o),
+(95,82,o),
+(95,53,cs),
+(95,24,o),
+(108,1,o),
+(137,1,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 268;
 }
 );
 note = colon;
-unicode = 003A;
+unicode = 58;
 userData = {
 KernOnSpecialSpacing = {
 L = "spaced-off";

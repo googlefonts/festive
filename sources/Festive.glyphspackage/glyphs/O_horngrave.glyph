@@ -4,28 +4,44 @@ glyphname = Ohorngrave;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = Ohorn;
+ref = Ohorn;
 },
 {
-name = grave;
-transform = "{1, 0, 0, 1, 264, 467}";
+pos = (264,467);
+ref = grave;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = Ohorn;
+ref = Ohorn;
 },
 {
-name = gravecomb.case;
-transform = "{1, 0, 0, 1, 294, 441}";
+pos = (294,441);
+ref = gravecomb.case;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 597;
 }
 );
-unicode = 1EDC;
+unicode = 7900;
 }

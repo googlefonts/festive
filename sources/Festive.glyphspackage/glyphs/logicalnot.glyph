@@ -4,73 +4,89 @@ glyphname = logicalnot;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"689 103 OFFCURVE",
-"698 142 OFFCURVE",
-"707 181 CURVE SMOOTH",
-"723 248 OFFCURVE",
-"744 325 OFFCURVE",
-"768 378 CURVE",
-"723 370 OFFCURVE",
-"559 366 OFFCURVE",
-"404 363 CURVE SMOOTH",
-"313 361 OFFCURVE",
-"214 360 OFFCURVE",
-"106 359 CURVE",
-"106 299 LINE",
-"336 301 LINE SMOOTH",
-"460 301 OFFCURVE",
-"603 303 OFFCURVE",
-"676 306 CURVE",
-"663 278 OFFCURVE",
-"651 220 OFFCURVE",
-"640 169 CURVE SMOOTH",
-"634 139 OFFCURVE",
-"628 107 OFFCURVE",
-"623 74 CURVE",
-"681 62 LINE"
+(689,103,o),
+(698,142,o),
+(707,181,cs),
+(723,248,o),
+(744,325,o),
+(768,378,c),
+(723,370,o),
+(559,366,o),
+(404,363,cs),
+(313,361,o),
+(214,360,o),
+(106,359,c),
+(106,299,l),
+(336,301,ls),
+(460,301,o),
+(603,303,o),
+(676,306,c),
+(663,278,o),
+(651,220,o),
+(640,169,cs),
+(634,139,o),
+(628,107,o),
+(623,74,c),
+(681,62,l)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"609 83 OFFCURVE",
-"618 122 OFFCURVE",
-"627 161 CURVE SMOOTH",
-"643 228 OFFCURVE",
-"664 305 OFFCURVE",
-"688 358 CURVE",
-"643 350 OFFCURVE",
-"479 346 OFFCURVE",
-"324 341 CURVE SMOOTH",
-"313 341 OFFCURVE",
-"214 340 OFFCURVE",
-"106 339 CURVE",
-"106 279 LINE",
-"336 281 LINE SMOOTH",
-"380 281 OFFCURVE",
-"523 283 OFFCURVE",
-"596 286 CURVE",
-"583 258 OFFCURVE",
-"571 200 OFFCURVE",
-"560 149 CURVE SMOOTH",
-"554 119 OFFCURVE",
-"548 87 OFFCURVE",
-"543 54 CURVE",
-"601 42 LINE"
+(609,83,o),
+(618,122,o),
+(627,161,cs),
+(643,228,o),
+(664,305,o),
+(688,358,c),
+(643,350,o),
+(479,346,o),
+(324,341,cs),
+(313,341,o),
+(214,340,o),
+(106,339,c),
+(106,279,l),
+(336,281,ls),
+(380,281,o),
+(523,283,o),
+(596,286,c),
+(583,258,o),
+(571,200,o),
+(560,149,cs),
+(554,119,o),
+(548,87,o),
+(543,54,c),
+(601,42,l)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 833;
 }
 );
 note = logicalnot;
-unicode = 00AC;
+unicode = 172;
 }

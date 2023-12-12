@@ -3,81 +3,97 @@ glyphname = comma;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"32 -158 OFFCURVE",
-"34 -157 OFFCURVE",
-"37 -156 CURVE",
-"103 -120 OFFCURVE",
-"158 -54 OFFCURVE",
-"158 23 CURVE SMOOTH",
-"158 71 OFFCURVE",
-"141 95 OFFCURVE",
-"108 95 CURVE SMOOTH",
-"77 95 OFFCURVE",
-"49 71 OFFCURVE",
-"49 41 CURVE SMOOTH",
-"49 21 OFFCURVE",
-"67 0 OFFCURVE",
-"106 0 CURVE SMOOTH",
-"111 0 OFFCURVE",
-"117 0 OFFCURVE",
-"123 1 CURVE",
-"121 -57 OFFCURVE",
-"92 -103 OFFCURVE",
-"36 -137 CURVE SMOOTH",
-"29 -141 OFFCURVE",
-"25 -146 OFFCURVE",
-"25 -153 CURVE SMOOTH",
-"25 -156 OFFCURVE",
-"27 -158 OFFCURVE",
-"31 -158 CURVE SMOOTH"
+(32,-158,o),
+(34,-157,o),
+(37,-156,c),
+(103,-120,o),
+(158,-54,o),
+(158,23,cs),
+(158,71,o),
+(141,95,o),
+(108,95,cs),
+(77,95,o),
+(49,71,o),
+(49,41,cs),
+(49,21,o),
+(67,0,o),
+(106,0,cs),
+(111,0,o),
+(117,0,o),
+(123,1,c),
+(121,-57,o),
+(92,-103,o),
+(36,-137,cs),
+(29,-141,o),
+(25,-146,o),
+(25,-153,cs),
+(25,-156,o),
+(27,-158,o),
+(31,-158,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"32 -158 OFFCURVE",
-"34 -157 OFFCURVE",
-"37 -156 CURVE",
-"103 -120 OFFCURVE",
-"158 -54 OFFCURVE",
-"158 23 CURVE SMOOTH",
-"158 71 OFFCURVE",
-"141 95 OFFCURVE",
-"108 95 CURVE SMOOTH",
-"77 95 OFFCURVE",
-"49 71 OFFCURVE",
-"49 41 CURVE SMOOTH",
-"49 21 OFFCURVE",
-"67 0 OFFCURVE",
-"106 0 CURVE SMOOTH",
-"111 0 OFFCURVE",
-"117 0 OFFCURVE",
-"123 1 CURVE",
-"121 -57 OFFCURVE",
-"92 -103 OFFCURVE",
-"36 -137 CURVE SMOOTH",
-"29 -141 OFFCURVE",
-"25 -146 OFFCURVE",
-"25 -153 CURVE SMOOTH",
-"25 -156 OFFCURVE",
-"27 -158 OFFCURVE",
-"31 -158 CURVE SMOOTH"
+(32,-158,o),
+(34,-157,o),
+(37,-156,c),
+(103,-120,o),
+(158,-54,o),
+(158,23,cs),
+(158,71,o),
+(141,95,o),
+(108,95,cs),
+(77,95,o),
+(49,71,o),
+(49,41,cs),
+(49,21,o),
+(67,0,o),
+(106,0,cs),
+(111,0,o),
+(117,0,o),
+(123,1,c),
+(121,-57,o),
+(92,-103,o),
+(36,-137,cs),
+(29,-141,o),
+(25,-146,o),
+(25,-153,cs),
+(25,-156,o),
+(27,-158,o),
+(31,-158,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 205;
 }
 );
 note = comma;
-unicode = 002C;
+unicode = 44;
 userData = {
 KernOnSpecialSpacing = {
 L = period;

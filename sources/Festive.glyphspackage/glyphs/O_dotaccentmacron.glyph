@@ -2,22 +2,38 @@
 glyphname = Odotaccentmacron;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = O;
+ref = O;
 },
 {
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 362, 434}";
+pos = (362,434);
+ref = dotaccentcomb;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 324, 550}";
+pos = (324,550);
+ref = macroncomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 597;
 }
 );
-unicode = 0230;
+unicode = 560;
 }

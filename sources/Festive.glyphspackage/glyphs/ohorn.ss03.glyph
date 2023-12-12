@@ -4,26 +4,42 @@ glyphname = ohorn.ss03;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = o;
+ref = o;
 },
 {
-name = horncomb;
-transform = "{1, 0, 0, 1, 184, -217}";
+pos = (184,-217);
+ref = horncomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = o.ss03;
+ref = o.ss03;
 },
 {
-name = horncomb;
-transform = "{1, 0, 0, 1, 250, -45}";
+pos = (250,-45);
+ref = horncomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 269;
 }
 );

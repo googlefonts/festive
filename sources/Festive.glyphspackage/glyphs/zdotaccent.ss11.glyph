@@ -3,16 +3,32 @@ color = 5;
 glyphname = zdotaccent.ss11;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = z.ss11;
+ref = z.ss11;
 },
 {
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 289, 194}";
+pos = (289,194);
+ref = dotaccentcomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 537;
 }
 );

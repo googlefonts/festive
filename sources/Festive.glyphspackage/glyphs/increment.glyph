@@ -3,65 +3,81 @@ glyphname = increment;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"650 -25 LINE",
-"596 85 OFFCURVE",
-"385 569 OFFCURVE",
-"356 649 CURVE",
-"309 651 LINE",
-"293 613 OFFCURVE",
-"71 40 OFFCURVE",
-"35 -27 CURVE"
+(650,-25,l),
+(596,85,o),
+(385,569,o),
+(356,649,c),
+(309,651,l),
+(293,613,o),
+(71,40,o),
+(35,-27,c)
 );
 },
 {
 closed = 1;
 nodes = (
-"146 88 OFFCURVE",
-"264 442 OFFCURVE",
-"332 578 CURVE",
-"388 446 OFFCURVE",
-"519 150 OFFCURVE",
-"575 26 CURVE",
-"106 11 LINE"
+(146,88,o),
+(264,442,o),
+(332,578,c),
+(388,446,o),
+(519,150,o),
+(575,26,c),
+(106,11,l)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"650 -25 LINE",
-"596 85 OFFCURVE",
-"385 569 OFFCURVE",
-"356 649 CURVE",
-"309 651 LINE",
-"293 613 OFFCURVE",
-"71 40 OFFCURVE",
-"35 -27 CURVE"
+(650,-25,l),
+(596,85,o),
+(385,569,o),
+(356,649,c),
+(309,651,l),
+(293,613,o),
+(71,40,o),
+(35,-27,c)
 );
 },
 {
 closed = 1;
 nodes = (
-"146 88 OFFCURVE",
-"264 442 OFFCURVE",
-"332 578 CURVE",
-"388 446 OFFCURVE",
-"519 150 OFFCURVE",
-"575 26 CURVE",
-"106 11 LINE"
+(146,88,o),
+(264,442,o),
+(332,578,c),
+(388,446,o),
+(519,150,o),
+(575,26,c),
+(106,11,l)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 702;
 }
 );
 note = Delta;
-unicode = 2206;
+unicode = 8710;
 }

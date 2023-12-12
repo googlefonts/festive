@@ -3,16 +3,32 @@ color = 5;
 glyphname = wgrave.ss04;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = w.ss04;
+ref = w.ss04;
 },
 {
-name = gravecomb;
-transform = "{1, 0, 0, 1, 234, -10}";
+pos = (234,-10);
+ref = gravecomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 615;
 }
 );

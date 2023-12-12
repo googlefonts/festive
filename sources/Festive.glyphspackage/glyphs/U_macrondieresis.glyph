@@ -2,22 +2,38 @@
 glyphname = Umacrondieresis;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = U;
+ref = U;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 457, 410}";
+pos = (457,410);
+ref = macroncomb;
 },
 {
-name = dieresiscomb;
-transform = "{1, 0, 0, 1, 446, 485}";
+pos = (446,485);
+ref = dieresiscomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 679;
 }
 );
-unicode = 1E7A;
+unicode = 7802;
 }

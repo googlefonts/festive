@@ -4,68 +4,84 @@ glyphname = schwa;
 layers = (
 {
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"102 322 OFFCURVE",
-"64 306 OFFCURVE",
-"-3 197 CURVE SMOOTH",
-"-24 161 OFFCURVE",
-"-19 155 OFFCURVE",
-"4 188 CURVE SMOOTH",
-"27 224 OFFCURVE",
-"91 269 OFFCURVE",
-"139 269 CURVE SMOOTH",
-"189 269 OFFCURVE",
-"199 204 OFFCURVE",
-"202 150 CURVE",
-"187 162 OFFCURVE",
-"167 164 OFFCURVE",
-"162 164 CURVE SMOOTH",
-"100 161 OFFCURVE",
-"74 106 OFFCURVE",
-"58 55 CURVE SMOOTH",
-"51 32 OFFCURVE",
-"45 8 OFFCURVE",
-"45 -12 CURVE SMOOTH",
-"45 -53 OFFCURVE",
-"65 -83 OFFCURVE",
-"127 -83 CURVE SMOOTH",
-"162 -83 OFFCURVE",
-"192 -72 OFFCURVE",
-"208 -53 CURVE SMOOTH",
-"247 -12 OFFCURVE",
-"260 84 OFFCURVE",
-"260 155 CURVE SMOOTH",
-"260 245 OFFCURVE",
-"224 322 OFFCURVE",
-"156 322 CURVE SMOOTH"
+(102,322,o),
+(64,306,o),
+(-3,197,cs),
+(-24,161,o),
+(-19,155,o),
+(4,188,cs),
+(27,224,o),
+(91,269,o),
+(139,269,cs),
+(189,269,o),
+(199,204,o),
+(202,150,c),
+(187,162,o),
+(167,164,o),
+(162,164,cs),
+(100,161,o),
+(74,106,o),
+(58,55,cs),
+(51,32,o),
+(45,8,o),
+(45,-12,cs),
+(45,-53,o),
+(65,-83,o),
+(127,-83,cs),
+(162,-83,o),
+(192,-72,o),
+(208,-53,cs),
+(247,-12,o),
+(260,84,o),
+(260,155,cs),
+(260,245,o),
+(224,322,o),
+(156,322,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"183 152 OFFCURVE",
-"193 139 OFFCURVE",
-"202 127 CURVE",
-"201 72 OFFCURVE",
-"191 16 OFFCURVE",
-"171 -21 CURVE SMOOTH",
-"156 -48 OFFCURVE",
-"135 -70 OFFCURVE",
-"120 -70 CURVE SMOOTH",
-"103 -70 OFFCURVE",
-"98 -52 OFFCURVE",
-"98 -29 CURVE SMOOTH",
-"98 42 OFFCURVE",
-"127 152 OFFCURVE",
-"164 152 CURVE SMOOTH"
+(183,152,o),
+(193,139,o),
+(202,127,c),
+(201,72,o),
+(191,16,o),
+(171,-21,cs),
+(156,-48,o),
+(135,-70,o),
+(120,-70,cs),
+(103,-70,o),
+(98,-52,o),
+(98,-29,cs),
+(98,42,o),
+(127,152,o),
+(164,152,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 335;
 }
 );
-unicode = 0259;
+unicode = 601;
 }

@@ -3,16 +3,32 @@ color = 5;
 glyphname = Kcaron.ss06;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = K.ss06;
+ref = K.ss06;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 712, 404}";
+pos = (712,404);
+ref = caroncomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 1308;
 }
 );

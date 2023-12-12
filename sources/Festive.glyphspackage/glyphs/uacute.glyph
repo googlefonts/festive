@@ -4,122 +4,138 @@ glyphname = uacute;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"165 -4 OFFCURVE",
-"206 92 OFFCURVE",
-"230 171 CURVE",
-"241 118 OFFCURVE",
-"262 66 OFFCURVE",
-"305 27 CURVE SMOOTH",
-"321 12 OFFCURVE",
-"342 5 OFFCURVE",
-"364 5 CURVE SMOOTH",
-"379 5 OFFCURVE",
-"394 8 OFFCURVE",
-"409 13 CURVE SMOOTH",
-"424 19 LINE SMOOTH",
-"428 20 OFFCURVE",
-"432 25 OFFCURVE",
-"432 27 CURVE SMOOTH",
-"432 28 OFFCURVE",
-"432 29 OFFCURVE",
-"430 29 CURVE SMOOTH",
-"428 29 OFFCURVE",
-"426 29 OFFCURVE",
-"422 27 CURVE SMOOTH",
-"416 25 OFFCURVE",
-"410 23 OFFCURVE",
-"404 23 CURVE SMOOTH",
-"391 23 OFFCURVE",
-"378 29 OFFCURVE",
-"365 41 CURVE SMOOTH",
-"312 89 OFFCURVE",
-"276 221 OFFCURVE",
-"273 288 CURVE",
-"275 300 OFFCURVE",
-"219 259 OFFCURVE",
-"219 248 CURVE SMOOTH",
-"220 229 OFFCURVE",
-"223 211 OFFCURVE",
-"226 192 CURVE",
-"205 116 OFFCURVE",
-"160 8 OFFCURVE",
-"111 13 CURVE",
-"93 16 OFFCURVE",
-"85 42 OFFCURVE",
-"85 76 CURVE SMOOTH",
-"85 151 OFFCURVE",
-"122 269 OFFCURVE",
-"134 299 CURVE",
-"136 309 OFFCURVE",
-"97 356 OFFCURVE",
-"92 345 CURVE SMOOTH",
-"78 318 OFFCURVE",
-"34 251 OFFCURVE",
-"8 212 CURVE SMOOTH",
-"5 208 OFFCURVE",
-"9 203 OFFCURVE",
-"12 207 CURVE SMOOTH",
-"31 231 OFFCURVE",
-"38 242 OFFCURVE",
-"47 253 CURVE",
-"34 184 OFFCURVE",
-"21 97 OFFCURVE",
-"24 63 CURVE SMOOTH",
-"27 32 OFFCURVE",
-"56 29 OFFCURVE",
-"92 6 CURVE SMOOTH",
-"98 3 LINE",
-"102 2 OFFCURVE",
-"105 1 OFFCURVE",
-"108 1 CURVE SMOOTH"
+(165,-4,o),
+(206,92,o),
+(230,171,c),
+(241,118,o),
+(262,66,o),
+(305,27,cs),
+(321,12,o),
+(342,5,o),
+(364,5,cs),
+(379,5,o),
+(394,8,o),
+(409,13,cs),
+(424,19,ls),
+(428,20,o),
+(432,25,o),
+(432,27,cs),
+(432,28,o),
+(432,29,o),
+(430,29,cs),
+(428,29,o),
+(426,29,o),
+(422,27,cs),
+(416,25,o),
+(410,23,o),
+(404,23,cs),
+(391,23,o),
+(378,29,o),
+(365,41,cs),
+(312,89,o),
+(276,221,o),
+(273,288,c),
+(275,300,o),
+(219,259,o),
+(219,248,cs),
+(220,229,o),
+(223,211,o),
+(226,192,c),
+(205,116,o),
+(160,8,o),
+(111,13,c),
+(93,16,o),
+(85,42,o),
+(85,76,cs),
+(85,151,o),
+(122,269,o),
+(134,299,c),
+(136,309,o),
+(97,356,o),
+(92,345,cs),
+(78,318,o),
+(34,251,o),
+(8,212,cs),
+(5,208,o),
+(9,203,o),
+(12,207,cs),
+(31,231,o),
+(38,242,o),
+(47,253,c),
+(34,184,o),
+(21,97,o),
+(24,63,cs),
+(27,32,o),
+(56,29,o),
+(92,6,cs),
+(98,3,l),
+(102,2,o),
+(105,1,o),
+(108,1,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"185 411 OFFCURVE",
-"190 413 OFFCURVE",
-"195 416 CURVE SMOOTH",
-"236 441 OFFCURVE",
-"281 462 OFFCURVE",
-"328 480 CURVE SMOOTH",
-"334 483 OFFCURVE",
-"339 488 OFFCURVE",
-"342 495 CURVE",
-"345 509 OFFCURVE",
-"340 517 OFFCURVE",
-"327 518 CURVE",
-"314 521 OFFCURVE",
-"290 510 OFFCURVE",
-"256 485 CURVE SMOOTH",
-"189 437 LINE",
-"178 431 OFFCURVE",
-"174 424 OFFCURVE",
-"174 418 CURVE SMOOTH",
-"174 414 OFFCURVE",
-"176 412 OFFCURVE",
-"180 411 CURVE SMOOTH"
+(185,411,o),
+(190,413,o),
+(195,416,cs),
+(236,441,o),
+(281,462,o),
+(328,480,cs),
+(334,483,o),
+(339,488,o),
+(342,495,c),
+(345,509,o),
+(340,517,o),
+(327,518,c),
+(314,521,o),
+(290,510,o),
+(256,485,cs),
+(189,437,l),
+(178,431,o),
+(174,424,o),
+(174,418,cs),
+(174,414,o),
+(176,412,o),
+(180,411,cs)
 );
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = u;
+ref = u;
 },
 {
-name = acutecomb;
-transform = "{1, 0, 0, 1, 126, -26}";
+pos = (126,-26);
+ref = acutecomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 364;
 }
 );
 note = uacute;
-unicode = 00FA;
+unicode = 250;
 }

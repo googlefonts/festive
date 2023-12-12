@@ -3,46 +3,62 @@ glyphname = bullet.ss11;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"407 33 OFFCURVE",
-"507 144 OFFCURVE",
-"507 280 CURVE SMOOTH",
-"507 416 OFFCURVE",
-"407 527 OFFCURVE",
-"287 527 CURVE SMOOTH",
-"167 527 OFFCURVE",
-"67 416 OFFCURVE",
-"67 280 CURVE SMOOTH",
-"67 144 OFFCURVE",
-"167 33 OFFCURVE",
-"287 33 CURVE SMOOTH"
+(407,33,o),
+(507,144,o),
+(507,280,cs),
+(507,416,o),
+(407,527,o),
+(287,527,cs),
+(167,527,o),
+(67,416,o),
+(67,280,cs),
+(67,144,o),
+(167,33,o),
+(287,33,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"407 33 OFFCURVE",
-"507 144 OFFCURVE",
-"507 280 CURVE SMOOTH",
-"507 416 OFFCURVE",
-"407 527 OFFCURVE",
-"287 527 CURVE SMOOTH",
-"167 527 OFFCURVE",
-"67 416 OFFCURVE",
-"67 280 CURVE SMOOTH",
-"67 144 OFFCURVE",
-"167 33 OFFCURVE",
-"287 33 CURVE SMOOTH"
+(407,33,o),
+(507,144,o),
+(507,280,cs),
+(507,416,o),
+(407,527,o),
+(287,527,cs),
+(167,527,o),
+(67,416,o),
+(67,280,cs),
+(67,144,o),
+(167,33,o),
+(287,33,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 604;
 }
 );

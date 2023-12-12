@@ -4,60 +4,76 @@ glyphname = apostrophemod;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"106 443 OFFCURVE",
-"107 440 OFFCURVE",
-"110 440 CURVE SMOOTH",
-"113 440 OFFCURVE",
-"118 445 OFFCURVE",
-"120 456 CURVE SMOOTH",
-"128 489 OFFCURVE",
-"139 525 OFFCURVE",
-"139 560 CURVE SMOOTH",
-"139 586 OFFCURVE",
-"133 621 OFFCURVE",
-"113 621 CURVE SMOOTH",
-"105 621 OFFCURVE",
-"100 612 OFFCURVE",
-"100 597 CURVE SMOOTH",
-"100 550 OFFCURVE",
-"100 503 OFFCURVE",
-"105 450 CURVE SMOOTH"
+(106,443,o),
+(107,440,o),
+(110,440,cs),
+(113,440,o),
+(118,445,o),
+(120,456,cs),
+(128,489,o),
+(139,525,o),
+(139,560,cs),
+(139,586,o),
+(133,621,o),
+(113,621,cs),
+(105,621,o),
+(100,612,o),
+(100,597,cs),
+(100,550,o),
+(100,503,o),
+(105,450,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"106 443 OFFCURVE",
-"107 440 OFFCURVE",
-"110 440 CURVE SMOOTH",
-"113 440 OFFCURVE",
-"118 445 OFFCURVE",
-"120 456 CURVE SMOOTH",
-"128 489 OFFCURVE",
-"139 525 OFFCURVE",
-"139 560 CURVE SMOOTH",
-"139 586 OFFCURVE",
-"133 621 OFFCURVE",
-"113 621 CURVE SMOOTH",
-"105 621 OFFCURVE",
-"100 612 OFFCURVE",
-"100 597 CURVE SMOOTH",
-"100 550 OFFCURVE",
-"100 503 OFFCURVE",
-"105 450 CURVE SMOOTH"
+(106,443,o),
+(107,440,o),
+(110,440,cs),
+(113,440,o),
+(118,445,o),
+(120,456,cs),
+(128,489,o),
+(139,525,o),
+(139,560,cs),
+(139,586,o),
+(133,621,o),
+(113,621,cs),
+(105,621,o),
+(100,612,o),
+(100,597,cs),
+(100,550,o),
+(100,503,o),
+(105,450,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 239;
 }
 );
-unicode = 02BC;
+unicode = 700;
 }

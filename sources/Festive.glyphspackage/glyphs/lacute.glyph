@@ -4,28 +4,44 @@ glyphname = lacute;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = l;
+ref = l;
 },
 {
-name = acutecomb;
-transform = "{1, 0, 0, 1, 167, 213}";
+pos = (167,213);
+ref = acutecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = l;
+ref = l;
 },
 {
-name = acutecomb;
-transform = "{1, 0, 0, 1, 188, 431}";
+pos = (188,431);
+ref = acutecomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 281;
 }
 );
-unicode = 013A;
+unicode = 314;
 }

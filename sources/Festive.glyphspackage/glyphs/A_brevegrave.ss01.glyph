@@ -4,30 +4,46 @@ glyphname = Abrevegrave.ss01;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = A;
+ref = A;
 },
 {
-name = brevecomb_gravecomb;
-transform = "{1, 0, 0, 1, 566, 207}";
+pos = (566,207);
+ref = brevecomb_gravecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = A.ss01;
+ref = A.ss01;
 },
 {
-name = brevecomb.case.ss01;
-transform = "{1, 0, 0, 1, 741, 293}";
+pos = (741,293);
+ref = brevecomb.case.ss01;
 },
 {
-name = gravecomb.case.ss01;
-transform = "{1, 0, 0, 1, 718, 401}";
+pos = (718,401);
+ref = gravecomb.case.ss01;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 1058;
 }
 );

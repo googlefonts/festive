@@ -3,16 +3,32 @@ color = 5;
 glyphname = Ecircumflexacute.ss04;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = E.ss04;
+ref = E.ss04;
 },
 {
-name = circumflexcomb_acutecomb.case;
-transform = "{1, 0, 0, 1, 444, 323}";
+pos = (444,323);
+ref = circumflexcomb_acutecomb.case;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 844;
 }
 );

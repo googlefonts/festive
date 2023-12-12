@@ -2,22 +2,38 @@
 glyphname = emacronacute;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = e;
+ref = e;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 65, 10}";
+pos = (65,10);
+ref = macroncomb;
 },
 {
-name = acutecomb;
-transform = "{1, 0, 0, 1, 91, 85}";
+pos = (91,85);
+ref = acutecomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 296;
 }
 );
-unicode = 1E17;
+unicode = 7703;
 }

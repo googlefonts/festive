@@ -5,97 +5,116 @@ layers = (
 hints = (
 {
 horizontal = 1;
-place = "{-385, 20}";
+place = (-385, 20);
+place = (-385, 20);
 type = Stem;
 },
 {
 horizontal = 1;
-place = "{462, 330}";
+place = (462, 330);
+place = (462, 330);
 type = Stem;
 },
 {
-place = "{84, 136}";
+place = (84, 136);
+place = (84, 136);
 type = Stem;
 }
 );
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"248 624 OFFCURVE",
-"244 645 OFFCURVE",
-"240 656 CURVE",
-"224 656 LINE",
-"220 649 OFFCURVE",
-"214 637 OFFCURVE",
-"207 634 CURVE",
-"199 692 OFFCURVE",
-"195 752 OFFCURVE",
-"160 792 CURVE",
-"142 792 LINE",
-"134 775 OFFCURVE",
-"136 763 OFFCURVE",
-"136 747 CURVE SMOOTH",
-"136 732 OFFCURVE",
-"134 713 OFFCURVE",
-"122 685 CURVE SMOOTH",
-"104 643 OFFCURVE",
-"72 609 OFFCURVE",
-"72 554 CURVE SMOOTH",
-"72 530 OFFCURVE",
-"103 462 OFFCURVE",
-"151 462 CURVE SMOOTH",
-"207 462 OFFCURVE",
-"248 592 OFFCURVE",
-"248 614 CURVE SMOOTH"
+(248,624,o),
+(244,645,o),
+(240,656,c),
+(224,656,l),
+(220,649,o),
+(214,637,o),
+(207,634,c),
+(199,692,o),
+(195,752,o),
+(160,792,c),
+(142,792,l),
+(134,775,o),
+(136,763,o),
+(136,747,cs),
+(136,732,o),
+(134,713,o),
+(122,685,cs),
+(104,643,o),
+(72,609,o),
+(72,554,cs),
+(72,530,o),
+(103,462,o),
+(151,462,cs),
+(207,462,o),
+(248,592,o),
+(248,614,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"230 -246 OFFCURVE",
-"219 -194 OFFCURVE",
-"219 -186 CURVE SMOOTH",
-"219 72 LINE SMOOTH",
-"219 209 OFFCURVE",
-"204 248 OFFCURVE",
-"204 268 CURVE SMOOTH",
-"204 286 OFFCURVE",
-"226 378 OFFCURVE",
-"226 413 CURVE SMOOTH",
-"226 422 OFFCURVE",
-"221 444 OFFCURVE",
-"206 444 CURVE SMOOTH",
-"170 444 OFFCURVE",
-"124 434 OFFCURVE",
-"85 429 CURVE",
-"79 419 OFFCURVE",
-"78 361 OFFCURVE",
-"78 304 CURVE SMOOTH",
-"78 213 LINE SMOOTH",
-"78 177 OFFCURVE",
-"69 132 OFFCURVE",
-"69 97 CURVE SMOOTH",
-"69 -32 OFFCURVE",
-"83 -66 OFFCURVE",
-"83 -90 CURVE SMOOTH",
-"83 -339 LINE SMOOTH",
-"83 -357 OFFCURVE",
-"97 -385 OFFCURVE",
-"127 -385 CURVE SMOOTH",
-"179 -385 LINE SMOOTH",
-"225 -385 OFFCURVE",
-"230 -283 OFFCURVE",
-"230 -259 CURVE SMOOTH"
+(230,-246,o),
+(219,-194,o),
+(219,-186,cs),
+(219,72,ls),
+(219,209,o),
+(204,248,o),
+(204,268,cs),
+(204,286,o),
+(226,378,o),
+(226,413,cs),
+(226,422,o),
+(221,444,o),
+(206,444,cs),
+(170,444,o),
+(124,434,o),
+(85,429,c),
+(79,419,o),
+(78,361,o),
+(78,304,cs),
+(78,213,ls),
+(78,177,o),
+(69,132,o),
+(69,97,cs),
+(69,-32,o),
+(83,-66,o),
+(83,-90,cs),
+(83,-339,ls),
+(83,-357,o),
+(97,-385,o),
+(127,-385,cs),
+(179,-385,ls),
+(225,-385,o),
+(230,-283,o),
+(230,-259,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 333;
 }
 );
 note = r;
-unicode = 1F56F;
+unicode = 128367;
 userData = {
 KernOnSpecialSpacing = {
 L = symbols;

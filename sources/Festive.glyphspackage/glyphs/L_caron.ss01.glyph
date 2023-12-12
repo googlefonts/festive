@@ -4,26 +4,42 @@ glyphname = Lcaron.ss01;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = L;
+ref = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 483, 487}";
+pos = (483,487);
+ref = caroncomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = L.ss01;
+ref = L.ss01;
 },
 {
-name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 864, 150}";
+pos = (864,150);
+ref = caroncomb.alt;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 801;
 }
 );

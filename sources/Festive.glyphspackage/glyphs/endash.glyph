@@ -3,75 +3,91 @@ glyphname = endash;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"79 190 OFFCURVE",
-"130 187 OFFCURVE",
-"186 187 CURVE SMOOTH",
-"269 187 OFFCURVE",
-"365 192 OFFCURVE",
-"390 197 CURVE",
-"413 203 OFFCURVE",
-"422 208 OFFCURVE",
-"422 212 CURVE SMOOTH",
-"422 214 OFFCURVE",
-"417 216 OFFCURVE",
-"407 216 CURVE SMOOTH",
-"404 216 OFFCURVE",
-"400 215 OFFCURVE",
-"395 215 CURVE SMOOTH",
-"344 211 OFFCURVE",
-"234 222 OFFCURVE",
-"157 222 CURVE SMOOTH",
-"135 222 OFFCURVE",
-"116 221 OFFCURVE",
-"101 219 CURVE SMOOTH",
-"77 215 OFFCURVE",
-"53 199 OFFCURVE",
-"61 196 CURVE SMOOTH"
+(79,190,o),
+(130,187,o),
+(186,187,cs),
+(269,187,o),
+(365,192,o),
+(390,197,c),
+(413,203,o),
+(422,208,o),
+(422,212,cs),
+(422,214,o),
+(417,216,o),
+(407,216,cs),
+(404,216,o),
+(400,215,o),
+(395,215,cs),
+(344,211,o),
+(234,222,o),
+(157,222,cs),
+(135,222,o),
+(116,221,o),
+(101,219,cs),
+(77,215,o),
+(53,199,o),
+(61,196,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"269 187 OFFCURVE",
-"365 192 OFFCURVE",
-"390 197 CURVE SMOOTH",
-"413 203 OFFCURVE",
-"422 208 OFFCURVE",
-"422 212 CURVE SMOOTH",
-"422 214 OFFCURVE",
-"417 216 OFFCURVE",
-"407 216 CURVE SMOOTH",
-"404 216 OFFCURVE",
-"400 215 OFFCURVE",
-"395 215 CURVE SMOOTH",
-"344 211 OFFCURVE",
-"234 222 OFFCURVE",
-"157 222 CURVE SMOOTH",
-"135 222 OFFCURVE",
-"116 221 OFFCURVE",
-"101 219 CURVE SMOOTH",
-"77 215 OFFCURVE",
-"53 199 OFFCURVE",
-"61 196 CURVE SMOOTH",
-"79 190 OFFCURVE",
-"130 187 OFFCURVE",
-"186 187 CURVE SMOOTH"
+(269,187,o),
+(365,192,o),
+(390,197,cs),
+(413,203,o),
+(422,208,o),
+(422,212,cs),
+(422,214,o),
+(417,216,o),
+(407,216,cs),
+(404,216,o),
+(400,215,o),
+(395,215,cs),
+(344,211,o),
+(234,222,o),
+(157,222,cs),
+(135,222,o),
+(116,221,o),
+(101,219,cs),
+(77,215,o),
+(53,199,o),
+(61,196,cs),
+(79,190,o),
+(130,187,o),
+(186,187,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 419;
 }
 );
 note = endash;
-unicode = 2013;
+unicode = 8211;
 userData = {
 KernOnSpecialSpacing = {
 L = dashes;

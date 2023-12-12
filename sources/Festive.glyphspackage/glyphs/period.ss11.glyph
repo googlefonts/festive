@@ -3,46 +3,62 @@ glyphname = period.ss11;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"137 -17 OFFCURVE",
-"163 5 OFFCURVE",
-"163 33 CURVE SMOOTH",
-"163 62 OFFCURVE",
-"137 84 OFFCURVE",
-"104 84 CURVE SMOOTH",
-"72 84 OFFCURVE",
-"46 62 OFFCURVE",
-"46 33 CURVE SMOOTH",
-"46 5 OFFCURVE",
-"72 -17 OFFCURVE",
-"104 -17 CURVE SMOOTH"
+(137,-17,o),
+(163,5,o),
+(163,33,cs),
+(163,62,o),
+(137,84,o),
+(104,84,cs),
+(72,84,o),
+(46,62,o),
+(46,33,cs),
+(46,5,o),
+(72,-17,o),
+(104,-17,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"137 -17 OFFCURVE",
-"163 5 OFFCURVE",
-"163 33 CURVE SMOOTH",
-"163 62 OFFCURVE",
-"137 84 OFFCURVE",
-"104 84 CURVE SMOOTH",
-"72 84 OFFCURVE",
-"46 62 OFFCURVE",
-"46 33 CURVE SMOOTH",
-"46 5 OFFCURVE",
-"72 -17 OFFCURVE",
-"104 -17 CURVE SMOOTH"
+(137,-17,o),
+(163,5,o),
+(163,33,cs),
+(163,62,o),
+(137,84,o),
+(104,84,cs),
+(72,84,o),
+(46,62,o),
+(46,33,cs),
+(46,5,o),
+(72,-17,o),
+(104,-17,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 207;
 }
 );
