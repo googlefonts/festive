@@ -4,144 +4,160 @@ glyphname = edieresis;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"167 -8 OFFCURVE",
-"175 0 OFFCURVE",
-"195 27 CURVE SMOOTH",
-"228 73 OFFCURVE",
-"243 99 OFFCURVE",
-"272 146 CURVE SMOOTH",
-"293 182 OFFCURVE",
-"318 220 OFFCURVE",
-"337 245 CURVE SMOOTH",
-"341 250 OFFCURVE",
-"341 254 OFFCURVE",
-"338 254 CURVE SMOOTH",
-"336 254 OFFCURVE",
-"334 252 OFFCURVE",
-"331 248 CURVE",
-"311 225 OFFCURVE",
-"288 188 OFFCURVE",
-"265 155 CURVE SMOOTH",
-"242 119 OFFCURVE",
-"193 39 OFFCURVE",
-"145 39 CURVE SMOOTH",
-"139 39 OFFCURVE",
-"133 40 OFFCURVE",
-"128 42 CURVE SMOOTH",
-"109 49 OFFCURVE",
-"92 73 OFFCURVE",
-"87 112 CURVE SMOOTH",
-"84 127 OFFCURVE",
-"83 142 OFFCURVE",
-"82 158 CURVE",
-"97 146 OFFCURVE",
-"117 144 OFFCURVE",
-"122 144 CURVE SMOOTH",
-"184 147 OFFCURVE",
-"210 202 OFFCURVE",
-"226 253 CURVE SMOOTH",
-"233 276 OFFCURVE",
-"239 300 OFFCURVE",
-"239 320 CURVE SMOOTH",
-"239 361 OFFCURVE",
-"219 391 OFFCURVE",
-"157 391 CURVE SMOOTH",
-"122 391 OFFCURVE",
-"92 380 OFFCURVE",
-"76 361 CURVE SMOOTH",
-"37 320 OFFCURVE",
-"24 224 OFFCURVE",
-"24 153 CURVE SMOOTH",
-"24 131 OFFCURVE",
-"25 113 OFFCURVE",
-"27 98 CURVE SMOOTH",
-"34 53 OFFCURVE",
-"69 -14 OFFCURVE",
-"128 -14 CURVE SMOOTH",
-"133 -14 OFFCURVE",
-"140 -13 OFFCURVE",
-"146 -12 CURVE SMOOTH"
+(167,-8,o),
+(175,0,o),
+(195,27,cs),
+(228,73,o),
+(243,99,o),
+(272,146,cs),
+(293,182,o),
+(318,220,o),
+(337,245,cs),
+(341,250,o),
+(341,254,o),
+(338,254,cs),
+(336,254,o),
+(334,252,o),
+(331,248,c),
+(311,225,o),
+(288,188,o),
+(265,155,cs),
+(242,119,o),
+(193,39,o),
+(145,39,cs),
+(139,39,o),
+(133,40,o),
+(128,42,cs),
+(109,49,o),
+(92,73,o),
+(87,112,cs),
+(84,127,o),
+(83,142,o),
+(82,158,c),
+(97,146,o),
+(117,144,o),
+(122,144,cs),
+(184,147,o),
+(210,202,o),
+(226,253,cs),
+(233,276,o),
+(239,300,o),
+(239,320,cs),
+(239,361,o),
+(219,391,o),
+(157,391,cs),
+(122,391,o),
+(92,380,o),
+(76,361,cs),
+(37,320,o),
+(24,224,o),
+(24,153,cs),
+(24,131,o),
+(25,113,o),
+(27,98,cs),
+(34,53,o),
+(69,-14,o),
+(128,-14,cs),
+(133,-14,o),
+(140,-13,o),
+(146,-12,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"112 156 OFFCURVE",
-"94 164 OFFCURVE",
-"91 169 CURVE",
-"88 172 OFFCURVE",
-"85 177 OFFCURVE",
-"82 181 CURVE",
-"83 236 OFFCURVE",
-"93 292 OFFCURVE",
-"113 329 CURVE SMOOTH",
-"128 356 OFFCURVE",
-"149 378 OFFCURVE",
-"164 378 CURVE SMOOTH",
-"181 378 OFFCURVE",
-"186 360 OFFCURVE",
-"186 337 CURVE SMOOTH",
-"186 315 OFFCURVE",
-"181 288 OFFCURVE",
-"180 269 CURVE SMOOTH",
-"177 246 OFFCURVE",
-"152 156 OFFCURVE",
-"120 156 CURVE SMOOTH"
+(112,156,o),
+(94,164,o),
+(91,169,c),
+(88,172,o),
+(85,177,o),
+(82,181,c),
+(83,236,o),
+(93,292,o),
+(113,329,cs),
+(128,356,o),
+(149,378,o),
+(164,378,cs),
+(181,378,o),
+(186,360,o),
+(186,337,cs),
+(186,315,o),
+(181,288,o),
+(180,269,cs),
+(177,246,o),
+(152,156,o),
+(120,156,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"139 495 OFFCURVE",
-"162 512 OFFCURVE",
-"162 533 CURVE SMOOTH",
-"162 554 OFFCURVE",
-"152 571 OFFCURVE",
-"131 571 CURVE SMOOTH",
-"110 571 OFFCURVE",
-"86 554 OFFCURVE",
-"86 533 CURVE SMOOTH",
-"86 512 OFFCURVE",
-"95 495 OFFCURVE",
-"116 495 CURVE SMOOTH"
+(139,495,o),
+(162,512,o),
+(162,533,cs),
+(162,554,o),
+(152,571,o),
+(131,571,cs),
+(110,571,o),
+(86,554,o),
+(86,533,cs),
+(86,512,o),
+(95,495,o),
+(116,495,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"261 495 OFFCURVE",
-"284 512 OFFCURVE",
-"284 533 CURVE SMOOTH",
-"284 554 OFFCURVE",
-"274 571 OFFCURVE",
-"253 571 CURVE SMOOTH",
-"232 571 OFFCURVE",
-"208 554 OFFCURVE",
-"208 533 CURVE SMOOTH",
-"208 512 OFFCURVE",
-"217 495 OFFCURVE",
-"238 495 CURVE SMOOTH"
+(261,495,o),
+(284,512,o),
+(284,533,cs),
+(284,554,o),
+(274,571,o),
+(253,571,cs),
+(232,571,o),
+(208,554,o),
+(208,533,cs),
+(208,512,o),
+(217,495,o),
+(238,495,cs)
 );
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = e;
+ref = e;
 },
 {
-name = dieresiscomb;
-transform = "{1, 0, 0, 1, 49, 0}";
+pos = (49,0);
+ref = dieresiscomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 296;
 }
 );
 note = edieresis;
-unicode = 00EB;
+unicode = 235;
 }

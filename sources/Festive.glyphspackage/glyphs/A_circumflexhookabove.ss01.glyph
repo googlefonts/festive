@@ -4,30 +4,46 @@ glyphname = Acircumflexhookabove.ss01;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = A;
+ref = A;
 },
 {
-name = circumflexcomb_hookabovecomb;
-transform = "{1, 0, 0, 1, 621, 207}";
+pos = (621,207);
+ref = circumflexcomb_hookabovecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = A.ss01;
+ref = A.ss01;
 },
 {
-name = circumflexcomb.case.ss01;
-transform = "{1, 0, 0, 1, 727, 293}";
+pos = (727,293);
+ref = circumflexcomb.case.ss01;
 },
 {
-name = hookabovecomb.case.ss01;
-transform = "{1, 0, 0, 1, 762, 397}";
+pos = (762,397);
+ref = hookabovecomb.case.ss01;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 1058;
 }
 );

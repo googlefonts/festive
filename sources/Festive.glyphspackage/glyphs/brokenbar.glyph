@@ -3,95 +3,111 @@ glyphname = brokenbar;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"163 303 LINE",
-"168 432 OFFCURVE",
-"178 552 OFFCURVE",
-"193 617 CURVE SMOOTH",
-"194 620 OFFCURVE",
-"196 630 OFFCURVE",
-"196 633 CURVE",
-"188 646 OFFCURVE",
-"159 655 OFFCURVE",
-"148 655 CURVE SMOOTH",
-"142 655 OFFCURVE",
-"139 654 OFFCURVE",
-"138 652 CURVE SMOOTH",
-"117 592 OFFCURVE",
-"107 451 OFFCURVE",
-"104 303 CURVE"
+(163,303,l),
+(168,432,o),
+(178,552,o),
+(193,617,cs),
+(194,620,o),
+(196,630,o),
+(196,633,c),
+(188,646,o),
+(159,655,o),
+(148,655,cs),
+(142,655,o),
+(139,654,o),
+(138,652,cs),
+(117,592,o),
+(107,451,o),
+(104,303,c)
 );
 },
 {
 closed = 1;
 nodes = (
-"165 -128 OFFCURVE",
-"160 19 OFFCURVE",
-"160 175 CURVE",
-"103 173 LINE",
-"106 24 OFFCURVE",
-"115 -107 OFFCURVE",
-"134 -151 CURVE SMOOTH",
-"142 -170 OFFCURVE",
-"152 -183 OFFCURVE",
-"166 -183 CURVE SMOOTH",
-"171 -183 OFFCURVE",
-"176 -182 OFFCURVE",
-"181 -179 CURVE"
+(165,-128,o),
+(160,19,o),
+(160,175,c),
+(103,173,l),
+(106,24,o),
+(115,-107,o),
+(134,-151,cs),
+(142,-170,o),
+(152,-183,o),
+(166,-183,cs),
+(171,-183,o),
+(176,-182,o),
+(181,-179,c)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"163 303 LINE",
-"168 432 OFFCURVE",
-"178 552 OFFCURVE",
-"193 617 CURVE SMOOTH",
-"194 620 OFFCURVE",
-"196 630 OFFCURVE",
-"196 633 CURVE",
-"188 646 OFFCURVE",
-"159 655 OFFCURVE",
-"148 655 CURVE SMOOTH",
-"142 655 OFFCURVE",
-"139 654 OFFCURVE",
-"138 652 CURVE SMOOTH",
-"117 592 OFFCURVE",
-"107 451 OFFCURVE",
-"104 303 CURVE"
+(163,303,l),
+(168,432,o),
+(178,552,o),
+(193,617,cs),
+(194,620,o),
+(196,630,o),
+(196,633,c),
+(188,646,o),
+(159,655,o),
+(148,655,cs),
+(142,655,o),
+(139,654,o),
+(138,652,cs),
+(117,592,o),
+(107,451,o),
+(104,303,c)
 );
 },
 {
 closed = 1;
 nodes = (
-"171 -183 OFFCURVE",
-"176 -182 OFFCURVE",
-"181 -179 CURVE",
-"165 -128 OFFCURVE",
-"160 19 OFFCURVE",
-"160 175 CURVE",
-"103 173 LINE",
-"106 24 OFFCURVE",
-"115 -107 OFFCURVE",
-"134 -151 CURVE SMOOTH",
-"142 -170 OFFCURVE",
-"152 -183 OFFCURVE",
-"166 -183 CURVE SMOOTH"
+(171,-183,o),
+(176,-182,o),
+(181,-179,c),
+(165,-128,o),
+(160,19,o),
+(160,175,c),
+(103,173,l),
+(106,24,o),
+(115,-107,o),
+(134,-151,cs),
+(142,-170,o),
+(152,-183,o),
+(166,-183,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 250;
 }
 );
 note = brokenbar;
-unicode = 00A6;
+unicode = 166;
 userData = {
 KernOnSpecialSpacing = {
 L = symbols;

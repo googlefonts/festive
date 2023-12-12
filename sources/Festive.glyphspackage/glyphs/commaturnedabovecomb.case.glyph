@@ -4,76 +4,92 @@ glyphname = commaturnedabovecomb.case;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"136.766 349.056 OFFCURVE",
-"160.124 366.979 OFFCURVE",
-"160.124 389.382 CURVE SMOOTH",
-"160.124 404.318 OFFCURVE",
-"145.108 420 OFFCURVE",
-"112.574 420 CURVE SMOOTH",
-"108.403 420 OFFCURVE",
-"103.397 420 OFFCURVE",
-"98.392 419.253 CURVE",
-"98 443 OFFCURVE",
-"99 463 OFFCURVE",
-"146 488 CURVE SMOOTH",
-"152 491 OFFCURVE",
-"155 495 OFFCURVE",
-"155 500 CURVE SMOOTH",
-"155 502 OFFCURVE",
-"153 504 OFFCURVE",
-"150 504 CURVE SMOOTH",
-"149 504 OFFCURVE",
-"148 503 OFFCURVE",
-"145 502 CURVE",
-"90 475 OFFCURVE",
-"69.195 460.326 OFFCURVE",
-"69.195 402.824 CURVE SMOOTH",
-"69.195 366.979 OFFCURVE",
-"83.376 349.056 OFFCURVE",
-"110.905 349.056 CURVE SMOOTH"
+(136.766,349.056,o),
+(160.124,366.979,o),
+(160.124,389.382,cs),
+(160.124,404.318,o),
+(145.108,420,o),
+(112.574,420,cs),
+(108.403,420,o),
+(103.397,420,o),
+(98.392,419.253,c),
+(98,443,o),
+(99,463,o),
+(146,488,cs),
+(152,491,o),
+(155,495,o),
+(155,500,cs),
+(155,502,o),
+(153,504,o),
+(150,504,cs),
+(149,504,o),
+(148,503,o),
+(145,502,c),
+(90,475,o),
+(69.195,460.326,o),
+(69.195,402.824,cs),
+(69.195,366.979,o),
+(83.376,349.056,o),
+(110.905,349.056,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"68 349 OFFCURVE",
-"91 367 OFFCURVE",
-"91 389 CURVE SMOOTH",
-"91 404 OFFCURVE",
-"76 420 OFFCURVE",
-"44 420 CURVE SMOOTH",
-"39 420 OFFCURVE",
-"34 420 OFFCURVE",
-"29 419 CURVE",
-"29 435 OFFCURVE",
-"38 466 OFFCURVE",
-"77 488 CURVE SMOOTH",
-"83 491 OFFCURVE",
-"86 495 OFFCURVE",
-"86 500 CURVE SMOOTH",
-"86 502 OFFCURVE",
-"84 504 OFFCURVE",
-"81 504 CURVE SMOOTH",
-"80 504 OFFCURVE",
-"78 504 OFFCURVE",
-"75 503 CURVE",
-"44 496 OFFCURVE",
-"0 460 OFFCURVE",
-"0 403 CURVE SMOOTH",
-"0 367 OFFCURVE",
-"14 349 OFFCURVE",
-"42 349 CURVE SMOOTH"
+(68,349,o),
+(91,367,o),
+(91,389,cs),
+(91,404,o),
+(76,420,o),
+(44,420,cs),
+(39,420,o),
+(34,420,o),
+(29,419,c),
+(29,435,o),
+(38,466,o),
+(77,488,cs),
+(83,491,o),
+(86,495,o),
+(86,500,cs),
+(86,502,o),
+(84,504,o),
+(81,504,cs),
+(80,504,o),
+(78,504,o),
+(75,503,cs),
+(44,496,o),
+(0,460,o),
+(0,403,cs),
+(0,367,o),
+(14,349,o),
+(42,349,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 91;
 }
 );

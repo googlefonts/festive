@@ -2,18 +2,34 @@
 glyphname = jcircumflex;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = jdotless;
+ref = jdotless;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, -28, -10}";
+pos = (-28,-10);
+ref = circumflexcomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 214;
 }
 );
-unicode = 0135;
+unicode = 309;
 }

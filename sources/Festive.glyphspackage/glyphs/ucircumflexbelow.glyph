@@ -3,18 +3,34 @@ color = 3;
 glyphname = ucircumflexbelow;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = u;
+ref = u;
 },
 {
-name = circumflexbelowcomb;
-transform = "{1, 0, 0, 1, 53, 8}";
+pos = (53,8);
+ref = circumflexbelowcomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 364;
 }
 );
-unicode = 1E77;
+unicode = 7799;
 }

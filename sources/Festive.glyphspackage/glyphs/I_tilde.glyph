@@ -4,28 +4,44 @@ glyphname = Itilde;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = I;
+ref = I;
 },
 {
-name = tildecomb;
-transform = "{1, 0, 0, 1, 261, 175}";
+pos = (261,175);
+ref = tildecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = I;
+ref = I;
 },
 {
-name = tildecomb.case;
-transform = "{1, 0, 0, 1, 348, 222}";
+pos = (348,222);
+ref = tildecomb.case;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 599;
 }
 );
-unicode = 0128;
+unicode = 296;
 }

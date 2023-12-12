@@ -4,34 +4,50 @@ glyphname = Ecircumflexdotbelow.ss01;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = E;
+ref = E;
 },
 {
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 275, 48}";
+pos = (275,48);
+ref = dotbelowcomb;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 419, 171}";
+pos = (419,171);
+ref = circumflexcomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = E.ss01;
+ref = E.ss01;
 },
 {
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 303, -36}";
+pos = (303,-36);
+ref = dotbelowcomb;
 },
 {
-name = circumflexcomb.case.ss01;
-transform = "{1, 0, 0, 1, 557, 272}";
+pos = (557,272);
+ref = circumflexcomb.case.ss01;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 778;
 }
 );

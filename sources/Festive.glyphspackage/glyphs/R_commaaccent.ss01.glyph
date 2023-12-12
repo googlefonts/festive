@@ -4,26 +4,42 @@ glyphname = Rcommaaccent.ss01;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = R;
+ref = R;
 },
 {
-name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 130, -25}";
+pos = (130,-25);
+ref = commaaccentcomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = R.ss01;
+ref = R.ss01;
 },
 {
-name = commaaccentcomb.case;
-transform = "{1, 0, 0, 1, 632, 76}";
+pos = (632,76);
+ref = commaaccentcomb.case;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 1256;
 }
 );

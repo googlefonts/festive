@@ -1,123 +1,24 @@
 {
 displayStrings = (
-"
-TEHALDIV/space TEHTTDIV/space 
-Buider/space 
-TEHDIV/space 
-TEHFUDIV/space 
-TEHOLDIV/space 
-TEHYADIV/space 
-TEHBEDIV/space 
-TEHIDIV/space 
-TEHWHDIV/space 
-TEH/L.ss09/E.ss09 DIV/space 
-t\"
-TEHETDIV/space 
-TEHETDIV/space TEHFRDIV/space 
-TEHETDIV/space TEHFRDIV/space 
-TEHETDIV/space TEHTTDIV/space 
-TEHETDIV/space TEHFUDIV/space 
-nigfid/space 
-TEHBLDIV/space 
-TEHEDIV/space 
-niefid/space 
-niobid/space 
-H'
-niomid/space 
-(b
-nigvid/space 
-Zuider/space 
-niykid/space 
-Asider/space 
-TEHIIDIV/space 
-TEHIIDIV/space TEHFRDIV/space 
-TEHIIDIV/space TEHFRDIV/space 
-TEHRSDIV/space 
-TEHEEDIV/space 
-TEHTSDIV/space 
-TEHRODIV/space 
-/u.ss05/ellipsis 
-TEHEPDIV/space 
-ni/y.ss11/ntilde.ss11 id/space 
-Avider/space 
-Arider/space 
-e\"
-Juider/space 
-Abider/space 
-Spider/space 
-ni/i.ss11/eth.ss11 id/space 
-TEHADIV/space 
-TEHNIDIV/space 
-
-TEHTODIV/space 
-TEHTYDIV/space 
-TEHALDIV/space TEHTTDIV/space 
-nisrid/space niggid/space 
-TEHETDIV/space TEHTYDIV/space 
-TEHXVDIV/space TEHTYDIV/space 
-nigrid/space 
-TEHALDIV/space TEHTODIV/space 
-Flider/space 
-ni/o.ss11/w.ss11 id/space 
-TEHTHDIV/space 
-k-
-niybid/space 
-nialid/space 
-TEHFEDIV/space 
-Vgider/space TEHRODIV/space 
-TEHYADIV/space TEHRODIV/space 
-Pgider/space TEHRODIV/space 
-TEHETDIV/space TEHISDIV/space 
-Avider/space TEHRODIV/space 
-Tider/space TEHRODIV/space 
-Vgider/space TEHRODIV/space 
-TEHETDIV/space TEHFEDIV/space 
-Lider/space 
-Hrider/space 
-Lider/space Itider/space 
-Itider/space Pbider/space 
-Orider/space 
-Hyider/space 
-niozid/space 
-Vbider/space Myider/space 
-niozid/space nichid/space 
-Ifider/space 
-Ifider/space 
-Tyider/space 
-Loider/space 
-TEHVIDIV/space 
-d'
-Utider/space 
-Lyider/space 
-niccid/space 
-TEHTTDIV/space 
-Auider/space 
-Awider/space",
-"/hookabovecomb",
-"/o.ss10",
-"O/Oogonek",
-"o/ohorn",
-"/ohorn",
-"/ogonekcomb/uogonek",
-a,
-o,
-"/abrevegrave.ss05/abrevegrave.ss06/abrevegrave.ss07/abrevegrave.ss08/abrevegrave.ss09/brevecomb_gravecomb/abrevegrave.ss10/abrevegrave.ss11/abrevehookabove.ss11/abrevetilde.ss11/acircumflexgrave.ss11/acircumflexhookabove.ss11/acircumflextilde.ss11/ahookabove.ss11",
-"/circumflexcomb_acutecomb/acircumflexacute.ss08",
-"G/Gcommaaccent",
-H,
-U,
-"/A.ss03/ogonekcomb/Aogonek.ss03",
-"/O.ss05",
-"/brevebelowcomb",
-"/macronbelowcomb",
-"/tildebelowcomb",
-"/ringbelowcomb",
-"/circumflexbelowcomb",
-"
-TEHPPDIV/space 
-nisuid/space ww
-nisoid/space 
-niblid/space 
-TEHAKDIV/space"
+"00 01 02 03 04 05 06 07 08 09 10    
+10 11 12 13 14 15 16 17 18 19 10
+20 21 22 23 24 25 26 27 28 29 20   
+30 31 32 33 34 35 36 37 38 39 30 
+40 41 42 43 44 45 46 47 48 49 40  
+50 51 52 53 54 55 56 57 58 59 50 
+60 61 62 63 64 65 66 67 68 69 60  
+70 71 72 73 74 75 76 77 78 79 70 
+80 81 82 83 84 85 86 87 88 89 80
+90 91 92 93 94 95 96 97 98 99 90
+'h
+TEHKDIV 
+TEHPHDIV 
+nifaid 
+TEHSADIV 
+TEHEADIV 
+TEHEADIV TEHTADIV 
+TEHIDIV 
+TEHRGDIV 
+nifsid "
 );
 }

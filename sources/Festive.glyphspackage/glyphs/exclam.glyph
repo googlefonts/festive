@@ -3,135 +3,151 @@ glyphname = exclam;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"125 175 OFFCURVE",
-"132 181 OFFCURVE",
-"137 194 CURVE SMOOTH",
-"170 279 OFFCURVE",
-"189 327 OFFCURVE",
-"194 338 CURVE SMOOTH",
-"259 463 LINE SMOOTH",
-"298 534 OFFCURVE",
-"315 574 OFFCURVE",
-"315 585 CURVE SMOOTH",
-"315 601 OFFCURVE",
-"309 616 OFFCURVE",
-"298 629 CURVE SMOOTH",
-"287 642 OFFCURVE",
-"274 649 OFFCURVE",
-"258 649 CURVE SMOOTH",
-"247 649 OFFCURVE",
-"235 644 OFFCURVE",
-"222 634 CURVE",
-"222 630 LINE SMOOTH",
-"222 631 OFFCURVE",
-"226 627 OFFCURVE",
-"235 620 CURVE SMOOTH",
-"244 613 OFFCURVE",
-"248 605 OFFCURVE",
-"248 595 CURVE SMOOTH",
-"248 578 OFFCURVE",
-"234 537 OFFCURVE",
-"205 474 CURVE SMOOTH",
-"181 415 OFFCURVE",
-"161 372 OFFCURVE",
-"150 343 CURVE SMOOTH",
-"125 282 OFFCURVE",
-"112 231 OFFCURVE",
-"112 192 CURVE SMOOTH",
-"112 181 OFFCURVE",
-"114 175 OFFCURVE",
-"118 175 CURVE SMOOTH"
+(125,175,o),
+(132,181,o),
+(137,194,cs),
+(170,279,o),
+(189,327,o),
+(194,338,cs),
+(259,463,ls),
+(298,534,o),
+(315,574,o),
+(315,585,cs),
+(315,601,o),
+(309,616,o),
+(298,629,cs),
+(287,642,o),
+(274,649,o),
+(258,649,cs),
+(247,649,o),
+(235,644,o),
+(222,634,c),
+(222,630,ls),
+(222,631,o),
+(226,627,o),
+(235,620,cs),
+(244,613,o),
+(248,605,o),
+(248,595,cs),
+(248,578,o),
+(234,537,o),
+(205,474,cs),
+(181,415,o),
+(161,372,o),
+(150,343,cs),
+(125,282,o),
+(112,231,o),
+(112,192,cs),
+(112,181,o),
+(114,175,o),
+(118,175,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"95 -18 OFFCURVE",
-"128 5 OFFCURVE",
-"128 34 CURVE SMOOTH",
-"128 63 OFFCURVE",
-"115 86 OFFCURVE",
-"86 86 CURVE SMOOTH",
-"57 86 OFFCURVE",
-"24 63 OFFCURVE",
-"24 34 CURVE SMOOTH",
-"24 5 OFFCURVE",
-"37 -18 OFFCURVE",
-"66 -18 CURVE SMOOTH"
+(95,-18,o),
+(128,5,o),
+(128,34,cs),
+(128,63,o),
+(115,86,o),
+(86,86,cs),
+(57,86,o),
+(24,63,o),
+(24,34,cs),
+(24,5,o),
+(37,-18,o),
+(66,-18,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"125 175 OFFCURVE",
-"132 181 OFFCURVE",
-"137 194 CURVE SMOOTH",
-"194 338 LINE",
-"259 463 LINE SMOOTH",
-"298 534 OFFCURVE",
-"315 574 OFFCURVE",
-"315 585 CURVE SMOOTH",
-"315 601 OFFCURVE",
-"309 616 OFFCURVE",
-"298 629 CURVE SMOOTH",
-"287 642 OFFCURVE",
-"274 649 OFFCURVE",
-"258 649 CURVE SMOOTH",
-"247 649 OFFCURVE",
-"235 644 OFFCURVE",
-"222 634 CURVE",
-"222 630 LINE SMOOTH",
-"222 631 OFFCURVE",
-"226 627 OFFCURVE",
-"235 620 CURVE SMOOTH",
-"244 613 OFFCURVE",
-"248 605 OFFCURVE",
-"248 595 CURVE SMOOTH",
-"248 578 OFFCURVE",
-"234 537 OFFCURVE",
-"205 474 CURVE SMOOTH",
-"181 415 OFFCURVE",
-"161 372 OFFCURVE",
-"150 343 CURVE SMOOTH",
-"125 282 OFFCURVE",
-"112 231 OFFCURVE",
-"112 192 CURVE SMOOTH",
-"112 181 OFFCURVE",
-"114 175 OFFCURVE",
-"118 175 CURVE SMOOTH"
+(125,175,o),
+(132,181,o),
+(137,194,cs),
+(194,338,l),
+(259,463,ls),
+(298,534,o),
+(315,574,o),
+(315,585,cs),
+(315,601,o),
+(309,616,o),
+(298,629,cs),
+(287,642,o),
+(274,649,o),
+(258,649,cs),
+(247,649,o),
+(235,644,o),
+(222,634,c),
+(222,630,ls),
+(222,631,o),
+(226,627,o),
+(235,620,cs),
+(244,613,o),
+(248,605,o),
+(248,595,cs),
+(248,578,o),
+(234,537,o),
+(205,474,cs),
+(181,415,o),
+(161,372,o),
+(150,343,cs),
+(125,282,o),
+(112,231,o),
+(112,192,cs),
+(112,181,o),
+(114,175,o),
+(118,175,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"95 -18 OFFCURVE",
-"128 5 OFFCURVE",
-"128 34 CURVE SMOOTH",
-"128 63 OFFCURVE",
-"115 86 OFFCURVE",
-"86 86 CURVE SMOOTH",
-"57 86 OFFCURVE",
-"24 63 OFFCURVE",
-"24 34 CURVE SMOOTH",
-"24 5 OFFCURVE",
-"37 -18 OFFCURVE",
-"66 -18 CURVE SMOOTH"
+(95,-18,o),
+(128,5,o),
+(128,34,cs),
+(128,63,o),
+(115,86,o),
+(86,86,cs),
+(57,86,o),
+(24,63,o),
+(24,34,cs),
+(24,5,o),
+(37,-18,o),
+(66,-18,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 322;
 }
 );
 note = exclam;
-unicode = 0021;
+unicode = 33;
 userData = {
 KernOnSpecialSpacing = {
 L = "spaced-off";

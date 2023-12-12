@@ -4,26 +4,42 @@ glyphname = ohookabove.ss06;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = o;
+ref = o;
 },
 {
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 36, -111}";
+pos = (36,-111);
+ref = hookabovecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = o.ss06;
+ref = o.ss06;
 },
 {
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 154, 45}";
+pos = (154,45);
+ref = hookabovecomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 344;
 }
 );

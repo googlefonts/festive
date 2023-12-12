@@ -4,28 +4,44 @@ glyphname = Wdieresis;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = W;
+ref = W;
 },
 {
-name = dieresiscomb;
-transform = "{1, 0, 0, 1, 460, 331}";
+pos = (460,331);
+ref = dieresiscomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = W;
+ref = W;
 },
 {
-name = dieresiscomb;
-transform = "{1, 0, 0, 1, 590, 365}";
+pos = (590,365);
+ref = dieresiscomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 862;
 }
 );
-unicode = 1E84;
+unicode = 7812;
 }

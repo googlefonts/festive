@@ -4,30 +4,46 @@ glyphname = Ocircumflexacute.ss01;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = O;
+ref = O;
 },
 {
-name = circumflexcomb_acutecomb;
-transform = "{1, 0, 0, 1, 236, 269}";
+pos = (236,269);
+ref = circumflexcomb_acutecomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = O.ss01;
+ref = O.ss01;
 },
 {
-name = circumflexcomb.case.ss01;
-transform = "{1, 0, 0, 1, 563, 379}";
+pos = (563,379);
+ref = circumflexcomb.case.ss01;
 },
 {
-name = acutecomb.case.ss01;
-transform = "{1, 0, 0, 1, 541, 483}";
+pos = (541,483);
+ref = acutecomb.case.ss01;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 821;
 }
 );

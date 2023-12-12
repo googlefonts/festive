@@ -4,89 +4,105 @@ glyphname = "rightanglebracket-math";
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"7 -124 OFFCURVE",
-"8 -129 OFFCURVE",
-"12 -129 CURVE SMOOTH",
-"19 -129 OFFCURVE",
-"25 -120 OFFCURVE",
-"33 -103 CURVE SMOOTH",
-"51 -66 OFFCURVE",
-"83 3 OFFCURVE",
-"128 103 CURVE SMOOTH",
-"180 219 OFFCURVE",
-"207 286 OFFCURVE",
-"210 302 CURVE SMOOTH",
-"210 309 OFFCURVE",
-"210 314 OFFCURVE",
-"209 316 CURVE",
-"162 511 LINE SMOOTH",
-"151 557 OFFCURVE",
-"141 602 OFFCURVE",
-"135 648 CURVE",
-"129 658 LINE",
-"124 660 OFFCURVE",
-"119 648 OFFCURVE",
-"115 627 CURVE SMOOTH",
-"112 611 OFFCURVE",
-"161 383 OFFCURVE",
-"174 286 CURVE",
-"78 72 OFFCURVE",
-"12 -92 OFFCURVE",
-"8 -115 CURVE SMOOTH"
+(7,-124,o),
+(8,-129,o),
+(12,-129,cs),
+(19,-129,o),
+(25,-120,o),
+(33,-103,cs),
+(51,-66,o),
+(83,3,o),
+(128,103,cs),
+(180,219,o),
+(207,286,o),
+(210,302,cs),
+(210,309,o),
+(210,314,o),
+(209,316,c),
+(162,511,ls),
+(151,557,o),
+(141,602,o),
+(135,648,c),
+(129,658,l),
+(124,660,o),
+(119,648,o),
+(115,627,cs),
+(112,611,o),
+(161,383,o),
+(174,286,c),
+(78,72,o),
+(12,-92,o),
+(8,-115,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"129 670 OFFCURVE",
-"121 644 OFFCURVE",
-"121 622 CURVE SMOOTH",
-"121 606 OFFCURVE",
-"146 333 OFFCURVE",
-"152 236 CURVE",
-"41 22 OFFCURVE",
-"-36 -142 OFFCURVE",
-"-41 -165 CURVE SMOOTH",
-"-42 -169 OFFCURVE",
-"-43 -171 OFFCURVE",
-"-43 -174 CURVE SMOOTH",
-"-43 -177 OFFCURVE",
-"-41 -179 OFFCURVE",
-"-39 -179 CURVE SMOOTH",
-"-32 -179 OFFCURVE",
-"-25 -170 OFFCURVE",
-"-16 -153 CURVE SMOOTH",
-"5 -116 OFFCURVE",
-"41 -47 OFFCURVE",
-"93 53 CURVE SMOOTH",
-"153 169 OFFCURVE",
-"218 236 OFFCURVE",
-"222 252 CURVE SMOOTH",
-"223 256 OFFCURVE",
-"223 259 OFFCURVE",
-"223 262 CURVE SMOOTH",
-"223 264 OFFCURVE",
-"223 265 OFFCURVE",
-"222 266 CURVE",
-"183 494 OFFCURVE",
-"152 641 OFFCURVE",
-"152 660 CURVE",
-"151 665 OFFCURVE",
-"146 670 OFFCURVE",
-"141 670 CURVE SMOOTH"
+(129,670,o),
+(121,644,o),
+(121,622,cs),
+(121,606,o),
+(146,333,o),
+(152,236,c),
+(41,22,o),
+(-36,-142,o),
+(-41,-165,cs),
+(-42,-169,o),
+(-43,-171,o),
+(-43,-174,cs),
+(-43,-177,o),
+(-41,-179,o),
+(-39,-179,cs),
+(-32,-179,o),
+(-25,-170,o),
+(-16,-153,cs),
+(5,-116,o),
+(41,-47,o),
+(93,53,cs),
+(153,169,o),
+(218,236,o),
+(222,252,cs),
+(223,256,o),
+(223,259,o),
+(223,262,cs),
+(223,264,o),
+(223,265,o),
+(222,266,c),
+(183,494,o),
+(152,641,o),
+(152,660,c),
+(151,665,o),
+(146,670,o),
+(141,670,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 292;
 }
 );
-unicode = 27E9;
+unicode = 10217;
 }

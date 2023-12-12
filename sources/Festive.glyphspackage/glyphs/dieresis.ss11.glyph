@@ -3,80 +3,96 @@ glyphname = dieresis.ss11;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"442 666 OFFCURVE",
-"465 689 OFFCURVE",
-"465 720 CURVE SMOOTH",
-"465 751 OFFCURVE",
-"442 774 OFFCURVE",
-"411 774 CURVE SMOOTH",
-"380 774 OFFCURVE",
-"357 751 OFFCURVE",
-"357 720 CURVE SMOOTH",
-"357 689 OFFCURVE",
-"380 666 OFFCURVE",
-"411 666 CURVE SMOOTH"
+(442,666,o),
+(465,689,o),
+(465,720,cs),
+(465,751,o),
+(442,774,o),
+(411,774,cs),
+(380,774,o),
+(357,751,o),
+(357,720,cs),
+(357,689,o),
+(380,666,o),
+(411,666,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"272 666 OFFCURVE",
-"295 689 OFFCURVE",
-"295 720 CURVE SMOOTH",
-"295 751 OFFCURVE",
-"272 774 OFFCURVE",
-"241 774 CURVE SMOOTH",
-"210 774 OFFCURVE",
-"187 751 OFFCURVE",
-"187 720 CURVE SMOOTH",
-"187 689 OFFCURVE",
-"210 666 OFFCURVE",
-"241 666 CURVE SMOOTH"
+(272,666,o),
+(295,689,o),
+(295,720,cs),
+(295,751,o),
+(272,774,o),
+(241,774,cs),
+(210,774,o),
+(187,751,o),
+(187,720,cs),
+(187,689,o),
+(210,666,o),
+(241,666,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"442 666 OFFCURVE",
-"465 689 OFFCURVE",
-"465 720 CURVE SMOOTH",
-"465 751 OFFCURVE",
-"442 774 OFFCURVE",
-"411 774 CURVE SMOOTH",
-"380 774 OFFCURVE",
-"357 751 OFFCURVE",
-"357 720 CURVE SMOOTH",
-"357 689 OFFCURVE",
-"380 666 OFFCURVE",
-"411 666 CURVE SMOOTH"
+(442,666,o),
+(465,689,o),
+(465,720,cs),
+(465,751,o),
+(442,774,o),
+(411,774,cs),
+(380,774,o),
+(357,751,o),
+(357,720,cs),
+(357,689,o),
+(380,666,o),
+(411,666,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"272 666 OFFCURVE",
-"295 689 OFFCURVE",
-"295 720 CURVE SMOOTH",
-"295 751 OFFCURVE",
-"272 774 OFFCURVE",
-"241 774 CURVE SMOOTH",
-"210 774 OFFCURVE",
-"187 751 OFFCURVE",
-"187 720 CURVE SMOOTH",
-"187 689 OFFCURVE",
-"210 666 OFFCURVE",
-"241 666 CURVE SMOOTH"
+(272,666,o),
+(295,689,o),
+(295,720,cs),
+(295,751,o),
+(272,774,o),
+(241,774,cs),
+(210,774,o),
+(187,751,o),
+(187,720,cs),
+(187,689,o),
+(210,666,o),
+(241,666,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 628;
 }
 );

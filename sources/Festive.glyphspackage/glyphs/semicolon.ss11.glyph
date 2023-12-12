@@ -3,106 +3,122 @@ glyphname = semicolon.ss11;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"54 -106 OFFCURVE",
-"118 -74 OFFCURVE",
-"150 -25 CURVE",
-"161 -11 OFFCURVE",
-"169 11 OFFCURVE",
-"169 31 CURVE SMOOTH",
-"169 58 OFFCURVE",
-"154 82 OFFCURVE",
-"108 82 CURVE SMOOTH",
-"76 82 OFFCURVE",
-"51 63 OFFCURVE",
-"51 36 CURVE SMOOTH",
-"51 11 OFFCURVE",
-"76 -9 OFFCURVE",
-"108 -9 CURVE SMOOTH",
-"109 -9 LINE",
-"90 -49 OFFCURVE",
-"54 -82 OFFCURVE",
-"17 -97 CURVE SMOOTH",
-"14 -99 OFFCURVE",
-"12 -106 OFFCURVE",
-"12 -112 CURVE SMOOTH",
-"12 -118 OFFCURVE",
-"13 -122 OFFCURVE",
-"15 -122 CURVE"
+(54,-106,o),
+(118,-74,o),
+(150,-25,c),
+(161,-11,o),
+(169,11,o),
+(169,31,cs),
+(169,58,o),
+(154,82,o),
+(108,82,cs),
+(76,82,o),
+(51,63,o),
+(51,36,cs),
+(51,11,o),
+(76,-9,o),
+(108,-9,cs),
+(109,-9,l),
+(90,-49,o),
+(54,-82,o),
+(17,-97,cs),
+(14,-99,o),
+(12,-106,o),
+(12,-112,cs),
+(12,-118,o),
+(13,-122,o),
+(15,-122,c)
 );
 },
 {
 closed = 1;
 nodes = (
-"148 300 OFFCURVE",
-"174 322 OFFCURVE",
-"174 350 CURVE SMOOTH",
-"174 379 OFFCURVE",
-"148 401 OFFCURVE",
-"115 401 CURVE SMOOTH",
-"83 401 OFFCURVE",
-"57 379 OFFCURVE",
-"57 350 CURVE SMOOTH",
-"57 322 OFFCURVE",
-"83 300 OFFCURVE",
-"115 300 CURVE SMOOTH"
+(148,300,o),
+(174,322,o),
+(174,350,cs),
+(174,379,o),
+(148,401,o),
+(115,401,cs),
+(83,401,o),
+(57,379,o),
+(57,350,cs),
+(57,322,o),
+(83,300,o),
+(115,300,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"54 -106 OFFCURVE",
-"118 -74 OFFCURVE",
-"150 -25 CURVE",
-"161 -11 OFFCURVE",
-"169 11 OFFCURVE",
-"169 31 CURVE SMOOTH",
-"169 58 OFFCURVE",
-"154 82 OFFCURVE",
-"108 82 CURVE SMOOTH",
-"76 82 OFFCURVE",
-"51 63 OFFCURVE",
-"51 36 CURVE SMOOTH",
-"51 11 OFFCURVE",
-"76 -9 OFFCURVE",
-"108 -9 CURVE SMOOTH",
-"109 -9 LINE",
-"90 -49 OFFCURVE",
-"54 -82 OFFCURVE",
-"17 -97 CURVE",
-"14 -99 OFFCURVE",
-"12 -106 OFFCURVE",
-"12 -112 CURVE SMOOTH",
-"12 -118 OFFCURVE",
-"13 -122 OFFCURVE",
-"15 -122 CURVE"
+(54,-106,o),
+(118,-74,o),
+(150,-25,c),
+(161,-11,o),
+(169,11,o),
+(169,31,cs),
+(169,58,o),
+(154,82,o),
+(108,82,cs),
+(76,82,o),
+(51,63,o),
+(51,36,cs),
+(51,11,o),
+(76,-9,o),
+(108,-9,cs),
+(109,-9,l),
+(90,-49,o),
+(54,-82,o),
+(17,-97,c),
+(14,-99,o),
+(12,-106,o),
+(12,-112,cs),
+(12,-118,o),
+(13,-122,o),
+(15,-122,c)
 );
 },
 {
 closed = 1;
 nodes = (
-"148 300 OFFCURVE",
-"174 322 OFFCURVE",
-"174 350 CURVE SMOOTH",
-"174 379 OFFCURVE",
-"148 401 OFFCURVE",
-"115 401 CURVE SMOOTH",
-"83 401 OFFCURVE",
-"57 379 OFFCURVE",
-"57 350 CURVE SMOOTH",
-"57 322 OFFCURVE",
-"83 300 OFFCURVE",
-"115 300 CURVE SMOOTH"
+(148,300,o),
+(174,322,o),
+(174,350,cs),
+(174,379,o),
+(148,401,o),
+(115,401,cs),
+(83,401,o),
+(57,379,o),
+(57,350,cs),
+(57,322,o),
+(83,300,o),
+(115,300,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 203;
 }
 );

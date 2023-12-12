@@ -3,55 +3,72 @@ glyphname = radical;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"365 177 OFFCURVE",
-"599 490 OFFCURVE",
-"778 685 CURVE",
-"720 733 LINE",
-"579 581 OFFCURVE",
-"396 307 OFFCURVE",
-"305 99 CURVE",
-"182 457 LINE",
-"118 379 LINE SMOOTH",
-"83 338 OFFCURVE",
-"47 295 OFFCURVE",
-"31 280 CURVE",
-"71 236 LINE",
-"165 335 LINE",
-"301 1 LINE"
+(365,177,o),
+(599,490,o),
+(778,685,c),
+(720,733,l),
+(579,581,o),
+(396,307,o),
+(305,99,c),
+(182,457,l),
+(118,379,ls),
+(83,338,o),
+(47,295,o),
+(31,280,c),
+(71,236,l),
+(165,335,l),
+(301,1,l)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"365 177 OFFCURVE",
-"599 490 OFFCURVE",
-"778 685 CURVE",
-"720 733 LINE",
-"579 581 OFFCURVE",
-"396 307 OFFCURVE",
-"305 99 CURVE",
-"182 457 LINE",
-"118 379 LINE SMOOTH",
-"83 338 OFFCURVE",
-"47 295 OFFCURVE",
-"31 280 CURVE",
-"71 236 LINE",
-"165 335 LINE",
-"301 1 LINE"
+(365,177,o),
+(599,490,o),
+(778,685,c),
+(720,733,l),
+(579,581,o),
+(396,307,o),
+(305,99,c),
+(182,457,l),
+(118,379,ls),
+(83,338,o),
+(47,295,o),
+(31,280,c),
+(71,236,l),
+(165,335,l),
+(301,1,l),
+(301,1,l)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 833;
 }
 );
 note = radical;
-unicode = 221A;
+unicode = 8730;
 }

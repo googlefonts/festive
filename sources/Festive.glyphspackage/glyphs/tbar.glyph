@@ -4,28 +4,46 @@ glyphname = tbar;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = t;
+ref = t;
 },
 {
-name = hyphen;
-transform = "{1.1, 0, 0, 1, -130, 204}";
+pos = (-130,204);
+ref = hyphen;
+scale = (1.1,1);
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = t;
+ref = t;
 },
 {
-name = hyphen;
-transform = "{1.1, 0, 0, 1, -153, 103}";
+pos = (-153,103);
+ref = hyphen;
+scale = (1.1,1);
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 200;
 }
 );
-unicode = 0167;
+unicode = 359;
 }

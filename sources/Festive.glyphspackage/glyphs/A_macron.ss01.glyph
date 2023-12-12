@@ -4,26 +4,42 @@ glyphname = Amacron.ss01;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = A;
+ref = A;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 641, 413}";
+pos = (641,413);
+ref = macroncomb;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = A.ss01;
+ref = A.ss01;
 },
 {
-name = macroncomb;
-transform = "{1, 0, 0, 1, 741, 303}";
+pos = (741,303);
+ref = macroncomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 1058;
 }
 );

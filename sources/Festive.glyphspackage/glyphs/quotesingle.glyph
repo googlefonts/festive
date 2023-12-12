@@ -3,75 +3,91 @@ glyphname = quotesingle;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"58 335 OFFCURVE",
-"57 332 OFFCURVE",
-"57 330 CURVE SMOOTH",
-"57 328 OFFCURVE",
-"58 326 OFFCURVE",
-"61 326 CURVE SMOOTH",
-"65 326 OFFCURVE",
-"75 332 OFFCURVE",
-"83 347 CURVE SMOOTH",
-"100 375 OFFCURVE",
-"129 432 OFFCURVE",
-"134 486 CURVE",
-"134 502 OFFCURVE",
-"125 519 OFFCURVE",
-"105 519 CURVE SMOOTH",
-"88 519 OFFCURVE",
-"72 514 OFFCURVE",
-"71 482 CURVE SMOOTH",
-"71 471 OFFCURVE",
-"79 453 OFFCURVE",
-"98 438 CURVE",
-"98 411 OFFCURVE",
-"93 378 OFFCURVE",
-"60 338 CURVE SMOOTH"
+(58,335,o),
+(57,332,o),
+(57,330,cs),
+(57,328,o),
+(58,326,o),
+(61,326,cs),
+(65,326,o),
+(75,332,o),
+(83,347,cs),
+(100,375,o),
+(129,432,o),
+(134,486,c),
+(134,502,o),
+(125,519,o),
+(105,519,cs),
+(88,519,o),
+(72,514,o),
+(71,482,cs),
+(71,471,o),
+(79,453,o),
+(98,438,c),
+(98,411,o),
+(93,378,o),
+(60,338,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"65 326 OFFCURVE",
-"75 332 OFFCURVE",
-"83 347 CURVE SMOOTH",
-"100 375 OFFCURVE",
-"129 432 OFFCURVE",
-"134 486 CURVE",
-"134 502 OFFCURVE",
-"125 519 OFFCURVE",
-"105 519 CURVE SMOOTH",
-"88 519 OFFCURVE",
-"72 514 OFFCURVE",
-"71 482 CURVE SMOOTH",
-"71 471 OFFCURVE",
-"79 453 OFFCURVE",
-"98 438 CURVE",
-"98 411 OFFCURVE",
-"93 378 OFFCURVE",
-"60 338 CURVE SMOOTH",
-"58 335 OFFCURVE",
-"57 332 OFFCURVE",
-"57 330 CURVE SMOOTH",
-"57 328 OFFCURVE",
-"58 326 OFFCURVE",
-"61 326 CURVE SMOOTH"
+(65,326,o),
+(75,332,o),
+(83,347,cs),
+(100,375,o),
+(129,432,o),
+(134,486,c),
+(134,502,o),
+(125,519,o),
+(105,519,cs),
+(88,519,o),
+(72,514,o),
+(71,482,cs),
+(71,471,o),
+(79,453,o),
+(98,438,c),
+(98,411,o),
+(93,378,o),
+(60,338,cs),
+(58,335,o),
+(57,332,o),
+(57,330,cs),
+(57,328,o),
+(58,326,o),
+(61,326,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 149;
 }
 );
 note = quotesingle;
-unicode = 0027;
+unicode = 39;
 userData = {
 KernOnName = quotesingle;
 KernOnSpecialSpacing = {

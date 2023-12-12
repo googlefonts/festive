@@ -4,28 +4,44 @@ glyphname = dcroat;
 layers = (
 {
 background = {
-components = (
+shapes = (
 {
-name = d;
+ref = d;
 },
 {
-name = hyphen;
-transform = "{1, 0, 0, 1, 91, 374}";
+pos = (91,374);
+ref = hyphen;
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = d;
+ref = d;
 },
 {
-name = ascenderbar_part.;
-transform = "{1, 0, 0, 1, 161, -8}";
+pos = (161,-8);
+ref = ascenderbar_part.;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 470;
 }
 );
-unicode = 0111;
+unicode = 273;
 }

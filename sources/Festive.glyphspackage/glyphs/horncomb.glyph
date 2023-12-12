@@ -6,86 +6,102 @@ layers = (
 anchors = (
 {
 name = _topright;
-position = "{-20, 370}";
+pos = (-20,370);
 },
 {
 name = topright;
-position = "{115, 455}";
+pos = (115,455);
 }
 );
 background = {
 anchors = (
 {
 name = _topright;
-position = "{-20, 370}";
+pos = (-20,370);
 },
 {
 name = topright;
-position = "{115, 455}";
+pos = (115,455);
 }
 );
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"52 358 OFFCURVE",
-"95 378 OFFCURVE",
-"95 418 CURVE SMOOTH",
-"95 444 OFFCURVE",
-"65 455 OFFCURVE",
-"45 455 CURVE SMOOTH",
-"30 455 OFFCURVE",
-"22 449 OFFCURVE",
-"22 438 CURVE SMOOTH",
-"22 430 OFFCURVE",
-"30 422 OFFCURVE",
-"52 422 CURVE SMOOTH",
-"63 422 OFFCURVE",
-"68 417 OFFCURVE",
-"68 410 CURVE SMOOTH",
-"68 393 OFFCURVE",
-"44 366 OFFCURVE",
-"0 366 CURVE",
-"0 361 LINE",
-"4 359 OFFCURVE",
-"9 358 OFFCURVE",
-"14 358 CURVE SMOOTH"
+(52,358,o),
+(95,378,o),
+(95,418,cs),
+(95,444,o),
+(65,455,o),
+(45,455,cs),
+(30,455,o),
+(22,449,o),
+(22,438,cs),
+(22,430,o),
+(30,422,o),
+(52,422,cs),
+(63,422,o),
+(68,417,o),
+(68,410,cs),
+(68,393,o),
+(44,366,o),
+(0,366,c),
+(0,361,l),
+(4,359,o),
+(9,358,o),
+(14,358,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"52 358 OFFCURVE",
-"100 399 OFFCURVE",
-"100 484 CURVE SMOOTH",
-"100 527 OFFCURVE",
-"79 556 OFFCURVE",
-"59 556 CURVE SMOOTH",
-"42 556 OFFCURVE",
-"36 546 OFFCURVE",
-"36 538 CURVE SMOOTH",
-"36 531 OFFCURVE",
-"42 524 OFFCURVE",
-"54 512 CURVE SMOOTH",
-"66 499 OFFCURVE",
-"70 485 OFFCURVE",
-"70 466 CURVE SMOOTH",
-"70 423 OFFCURVE",
-"51 373 OFFCURVE",
-"0 373 CURVE",
-"0 364 LINE",
-"4 360 OFFCURVE",
-"9 358 OFFCURVE",
-"14 358 CURVE SMOOTH"
+(52,358,o),
+(100,399,o),
+(100,484,cs),
+(100,527,o),
+(79,556,o),
+(59,556,cs),
+(42,556,o),
+(36,546,o),
+(36,538,cs),
+(36,531,o),
+(42,524,o),
+(54,512,cs),
+(66,499,o),
+(70,485,o),
+(70,466,cs),
+(70,423,o),
+(51,373,o),
+(0,373,c),
+(0,364,l),
+(4,360,o),
+(9,358,o),
+(14,358,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 97;
 }
 );
-unicode = 031B;
+unicode = 795;
 }

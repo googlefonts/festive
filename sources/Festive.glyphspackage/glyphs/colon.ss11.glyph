@@ -3,80 +3,96 @@ glyphname = colon.ss11;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"148 300 OFFCURVE",
-"174 322 OFFCURVE",
-"174 350 CURVE SMOOTH",
-"174 379 OFFCURVE",
-"148 401 OFFCURVE",
-"115 401 CURVE SMOOTH",
-"83 401 OFFCURVE",
-"57 379 OFFCURVE",
-"57 350 CURVE SMOOTH",
-"57 322 OFFCURVE",
-"83 300 OFFCURVE",
-"115 300 CURVE SMOOTH"
+(148,300,o),
+(174,322,o),
+(174,350,cs),
+(174,379,o),
+(148,401,o),
+(115,401,cs),
+(83,401,o),
+(57,379,o),
+(57,350,cs),
+(57,322,o),
+(83,300,o),
+(115,300,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"137 -17 OFFCURVE",
-"163 5 OFFCURVE",
-"163 33 CURVE SMOOTH",
-"163 62 OFFCURVE",
-"137 84 OFFCURVE",
-"104 84 CURVE SMOOTH",
-"72 84 OFFCURVE",
-"46 62 OFFCURVE",
-"46 33 CURVE SMOOTH",
-"46 5 OFFCURVE",
-"72 -17 OFFCURVE",
-"104 -17 CURVE SMOOTH"
+(137,-17,o),
+(163,5,o),
+(163,33,cs),
+(163,62,o),
+(137,84,o),
+(104,84,cs),
+(72,84,o),
+(46,62,o),
+(46,33,cs),
+(46,5,o),
+(72,-17,o),
+(104,-17,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"148 300 OFFCURVE",
-"174 322 OFFCURVE",
-"174 350 CURVE SMOOTH",
-"174 379 OFFCURVE",
-"148 401 OFFCURVE",
-"115 401 CURVE SMOOTH",
-"83 401 OFFCURVE",
-"57 379 OFFCURVE",
-"57 350 CURVE SMOOTH",
-"57 322 OFFCURVE",
-"83 300 OFFCURVE",
-"115 300 CURVE SMOOTH"
+(148,300,o),
+(174,322,o),
+(174,350,cs),
+(174,379,o),
+(148,401,o),
+(115,401,cs),
+(83,401,o),
+(57,379,o),
+(57,350,cs),
+(57,322,o),
+(83,300,o),
+(115,300,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"137 -17 OFFCURVE",
-"163 5 OFFCURVE",
-"163 33 CURVE SMOOTH",
-"163 62 OFFCURVE",
-"137 84 OFFCURVE",
-"104 84 CURVE SMOOTH",
-"72 84 OFFCURVE",
-"46 62 OFFCURVE",
-"46 33 CURVE SMOOTH",
-"46 5 OFFCURVE",
-"72 -17 OFFCURVE",
-"104 -17 CURVE SMOOTH"
+(137,-17,o),
+(163,5,o),
+(163,33,cs),
+(163,62,o),
+(137,84,o),
+(104,84,cs),
+(72,84,o),
+(46,62,o),
+(46,33,cs),
+(46,5,o),
+(72,-17,o),
+(104,-17,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 203;
 }
 );

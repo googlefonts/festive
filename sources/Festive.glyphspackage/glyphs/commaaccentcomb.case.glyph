@@ -5,71 +5,87 @@ layers = (
 anchors = (
 {
 name = _bottom;
-position = "{48, 0}";
+pos = (48,0);
 },
 {
 name = bottom;
-position = "{48, -173}";
+pos = (48,-173);
 }
 );
 background = {
 anchors = (
 {
 name = _bottom;
-position = "{48, 0}";
+pos = (48,0);
 },
 {
 name = bottom;
-position = "{48, -173}";
+pos = (48,-173);
 }
 );
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"8 -233 OFFCURVE",
-"13 -232 OFFCURVE",
-"18 -230 CURVE",
-"42 -218 OFFCURVE",
-"52 -202 OFFCURVE",
-"67 -181 CURVE SMOOTH",
-"83 -158 OFFCURVE",
-"95 -129 OFFCURVE",
-"95 -104 CURVE SMOOTH",
-"95 -72 OFFCURVE",
-"79 -62 OFFCURVE",
-"57 -62 CURVE SMOOTH",
-"47 -62 OFFCURVE",
-"38 -64 OFFCURVE",
-"29 -73 CURVE SMOOTH",
-"21 -81 OFFCURVE",
-"16 -89 OFFCURVE",
-"16 -98 CURVE SMOOTH",
-"16 -112 OFFCURVE",
-"28 -126 OFFCURVE",
-"55 -126 CURVE SMOOTH",
-"58 -126 OFFCURVE",
-"63 -126 OFFCURVE",
-"67 -125 CURVE",
-"59 -147 OFFCURVE",
-"20 -205 OFFCURVE",
-"7 -219 CURVE SMOOTH",
-"2 -224 OFFCURVE",
-"0 -228 OFFCURVE",
-"0 -230 CURVE SMOOTH",
-"0 -232 OFFCURVE",
-"2 -233 OFFCURVE",
-"5 -233 CURVE SMOOTH"
+(8,-233,o),
+(13,-232,o),
+(18,-230,c),
+(42,-218,o),
+(52,-202,o),
+(67,-181,cs),
+(83,-158,o),
+(95,-129,o),
+(95,-104,cs),
+(95,-72,o),
+(79,-62,o),
+(57,-62,cs),
+(47,-62,o),
+(38,-64,o),
+(29,-73,cs),
+(21,-81,o),
+(16,-89,o),
+(16,-98,cs),
+(16,-112,o),
+(28,-126,o),
+(55,-126,cs),
+(58,-126,o),
+(63,-126,o),
+(67,-125,c),
+(59,-147,o),
+(20,-205,o),
+(7,-219,cs),
+(2,-224,o),
+(0,-228,o),
+(0,-230,cs),
+(0,-232,o),
+(2,-233,o),
+(5,-233,cs)
 );
 }
 );
 };
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = commaaccentcomb;
+ref = commaaccentcomb;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 95;
 }
 );

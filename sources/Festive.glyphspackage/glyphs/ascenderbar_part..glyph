@@ -5,38 +5,54 @@ layers = (
 anchors = (
 {
 name = _lstem;
-position = "{132, 616}";
+pos = (132,616);
 }
 );
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"167 606 OFFCURVE",
-"193 608 OFFCURVE",
-"213 610 CURVE SMOOTH",
-"234 613 OFFCURVE",
-"243 616 OFFCURVE",
-"243 619 CURVE SMOOTH",
-"243 621 OFFCURVE",
-"233 623 OFFCURVE",
-"218 623 CURVE SMOOTH",
-"172 623 OFFCURVE",
-"152 625 OFFCURVE",
-"126 625 CURVE SMOOTH",
-"101 625 OFFCURVE",
-"97 625 OFFCURVE",
-"76 623 CURVE SMOOTH",
-"54 621 OFFCURVE",
-"31 613 OFFCURVE",
-"40 611 CURVE SMOOTH",
-"59 607 OFFCURVE",
-"89 606 OFFCURVE",
-"141 606 CURVE SMOOTH"
+(167,606,o),
+(193,608,o),
+(213,610,cs),
+(234,613,o),
+(243,616,o),
+(243,619,cs),
+(243,621,o),
+(233,623,o),
+(218,623,cs),
+(172,623,o),
+(152,625,o),
+(126,625,cs),
+(101,625,o),
+(97,625,o),
+(76,623,cs),
+(54,621,o),
+(31,613,o),
+(40,611,cs),
+(59,607,o),
+(89,606,o),
+(141,606,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 328;
 }
 );

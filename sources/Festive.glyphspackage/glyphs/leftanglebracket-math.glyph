@@ -4,89 +4,105 @@ glyphname = "leftanglebracket-math";
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"341 655 OFFCURVE",
-"340 660 OFFCURVE",
-"336 660 CURVE SMOOTH",
-"329 660 OFFCURVE",
-"322 651 OFFCURVE",
-"313 634 CURVE SMOOTH",
-"292 597 OFFCURVE",
-"256 528 OFFCURVE",
-"204 428 CURVE SMOOTH",
-"144 312 OFFCURVE",
-"112 245 OFFCURVE",
-"108 229 CURVE SMOOTH",
-"107 222 OFFCURVE",
-"106 217 OFFCURVE",
-"108 215 CURVE",
-"141 20 LINE SMOOTH",
-"148 -26 OFFCURVE",
-"156 -71 OFFCURVE",
-"159 -117 CURVE",
-"163 -127 LINE",
-"169 -129 OFFCURVE",
-"175 -117 OFFCURVE",
-"180 -96 CURVE SMOOTH",
-"184 -80 OFFCURVE",
-"151 148 OFFCURVE",
-"145 245 CURVE",
-"256 459 OFFCURVE",
-"333 623 OFFCURVE",
-"338 646 CURVE SMOOTH"
+(341,655,o),
+(340,660,o),
+(336,660,cs),
+(329,660,o),
+(322,651,o),
+(313,634,cs),
+(292,597,o),
+(256,528,o),
+(204,428,cs),
+(144,312,o),
+(112,245,o),
+(108,229,cs),
+(107,222,o),
+(106,217,o),
+(108,215,c),
+(141,20,ls),
+(148,-26,o),
+(156,-71,o),
+(159,-117,c),
+(163,-127,l),
+(169,-129,o),
+(175,-117,o),
+(180,-96,cs),
+(184,-80,o),
+(151,148,o),
+(145,245,c),
+(256,459,o),
+(333,623,o),
+(338,646,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"168 -179 OFFCURVE",
-"176 -153 OFFCURVE",
-"176 -131 CURVE SMOOTH",
-"176 -115 OFFCURVE",
-"151 158 OFFCURVE",
-"145 255 CURVE",
-"256 469 OFFCURVE",
-"333 633 OFFCURVE",
-"338 656 CURVE SMOOTH",
-"339 660 OFFCURVE",
-"340 662 OFFCURVE",
-"340 665 CURVE SMOOTH",
-"340 668 OFFCURVE",
-"338 670 OFFCURVE",
-"336 670 CURVE SMOOTH",
-"329 670 OFFCURVE",
-"322 661 OFFCURVE",
-"313 644 CURVE SMOOTH",
-"292 607 OFFCURVE",
-"256 538 OFFCURVE",
-"204 438 CURVE SMOOTH",
-"144 322 OFFCURVE",
-"79 255 OFFCURVE",
-"75 239 CURVE SMOOTH",
-"74 235 OFFCURVE",
-"74 232 OFFCURVE",
-"74 229 CURVE SMOOTH",
-"74 227 OFFCURVE",
-"74 226 OFFCURVE",
-"75 225 CURVE",
-"114 -3 OFFCURVE",
-"145 -150 OFFCURVE",
-"145 -169 CURVE",
-"146 -174 OFFCURVE",
-"151 -179 OFFCURVE",
-"156 -179 CURVE SMOOTH"
+(168,-179,o),
+(176,-153,o),
+(176,-131,cs),
+(176,-115,o),
+(151,158,o),
+(145,255,c),
+(256,469,o),
+(333,633,o),
+(338,656,cs),
+(339,660,o),
+(340,662,o),
+(340,665,cs),
+(340,668,o),
+(338,670,o),
+(336,670,cs),
+(329,670,o),
+(322,661,o),
+(313,644,cs),
+(292,607,o),
+(256,538,o),
+(204,438,cs),
+(144,322,o),
+(79,255,o),
+(75,239,cs),
+(74,235,o),
+(74,232,o),
+(74,229,cs),
+(74,227,o),
+(74,226,o),
+(75,225,c),
+(114,-3,o),
+(145,-150,o),
+(145,-169,c),
+(146,-174,o),
+(151,-179,o),
+(156,-179,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 292;
 }
 );
-unicode = 27E8;
+unicode = 10216;
 }

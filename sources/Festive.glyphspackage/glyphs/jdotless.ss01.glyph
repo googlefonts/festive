@@ -6,84 +6,100 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{-95, -336}";
+pos = (-95,-336);
 },
 {
 name = top;
-position = "{44, 309}";
+pos = (44,309);
 }
 );
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"65 -361 OFFCURVE",
-"129 -223 OFFCURVE",
-"129 -60 CURVE SMOOTH",
-"129 44 OFFCURVE",
-"104 170 OFFCURVE",
-"70 254 CURVE",
-"64 263 OFFCURVE",
-"57 266 OFFCURVE",
-"50 266 CURVE SMOOTH",
-"27 266 OFFCURVE",
-"3 231 OFFCURVE",
-"9 218 CURVE",
-"50 146 OFFCURVE",
-"100 -33 OFFCURVE",
-"100 -122 CURVE SMOOTH",
-"100 -215 OFFCURVE",
-"55 -298 OFFCURVE",
-"-42 -298 CURVE SMOOTH",
-"-140 -298 OFFCURVE",
-"-294 -219 OFFCURVE",
-"-294 -125 CURVE SMOOTH",
-"-294 -74 OFFCURVE",
-"-251 -43 OFFCURVE",
-"-200 -43 CURVE SMOOTH",
-"-135 -43 OFFCURVE",
-"-41 -94 OFFCURVE",
-"-41 -153 CURVE SMOOTH",
-"-41 -178 OFFCURVE",
-"-62 -198 OFFCURVE",
-"-97 -198 CURVE SMOOTH",
-"-143 -198 OFFCURVE",
-"-204 -169 OFFCURVE",
-"-204 -125 CURVE SMOOTH",
-"-204 -119 OFFCURVE",
-"-201 -106 OFFCURVE",
-"-198 -103 CURVE SMOOTH",
-"-195 -100 OFFCURVE",
-"-193 -97 OFFCURVE",
-"-193 -95 CURVE SMOOTH",
-"-193 -94 OFFCURVE",
-"-194 -93 OFFCURVE",
-"-195 -93 CURVE SMOOTH",
-"-196 -93 OFFCURVE",
-"-197 -94 OFFCURVE",
-"-199 -95 CURVE SMOOTH",
-"-209 -100 OFFCURVE",
-"-213 -119 OFFCURVE",
-"-213 -132 CURVE SMOOTH",
-"-213 -182 OFFCURVE",
-"-133 -227 OFFCURVE",
-"-74 -227 CURVE SMOOTH",
-"-32 -227 OFFCURVE",
-"-4 -205 OFFCURVE",
-"-4 -173 CURVE SMOOTH",
-"-4 -99 OFFCURVE",
-"-126 -35 OFFCURVE",
-"-216 -35 CURVE SMOOTH",
-"-292 -37 OFFCURVE",
-"-323 -85 OFFCURVE",
-"-323 -142 CURVE SMOOTH",
-"-323 -260 OFFCURVE",
-"-214 -361 OFFCURVE",
-"-85 -361 CURVE SMOOTH"
+(65,-361,o),
+(129,-223,o),
+(129,-60,cs),
+(129,44,o),
+(104,170,o),
+(70,254,c),
+(64,263,o),
+(57,266,o),
+(50,266,cs),
+(27,266,o),
+(3,231,o),
+(9,218,c),
+(50,146,o),
+(100,-33,o),
+(100,-122,cs),
+(100,-215,o),
+(55,-298,o),
+(-42,-298,cs),
+(-140,-298,o),
+(-294,-219,o),
+(-294,-125,cs),
+(-294,-74,o),
+(-251,-43,o),
+(-200,-43,cs),
+(-135,-43,o),
+(-41,-94,o),
+(-41,-153,cs),
+(-41,-178,o),
+(-62,-198,o),
+(-97,-198,cs),
+(-143,-198,o),
+(-204,-169,o),
+(-204,-125,cs),
+(-204,-119,o),
+(-201,-106,o),
+(-198,-103,cs),
+(-195,-100,o),
+(-193,-97,o),
+(-193,-95,cs),
+(-193,-94,o),
+(-194,-93,o),
+(-195,-93,cs),
+(-196,-93,o),
+(-197,-94,o),
+(-199,-95,cs),
+(-209,-100,o),
+(-213,-119,o),
+(-213,-132,cs),
+(-213,-182,o),
+(-133,-227,o),
+(-74,-227,cs),
+(-32,-227,o),
+(-4,-205,o),
+(-4,-173,cs),
+(-4,-99,o),
+(-126,-35,o),
+(-216,-35,cs),
+(-292,-37,o),
+(-323,-85,o),
+(-323,-142,cs),
+(-323,-260,o),
+(-214,-361,o),
+(-85,-361,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 214;
 }
 );

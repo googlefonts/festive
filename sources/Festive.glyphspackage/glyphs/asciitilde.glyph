@@ -4,105 +4,121 @@ glyphname = asciitilde;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"239 324 OFFCURVE",
-"259 345 OFFCURVE",
-"259 386 CURVE SMOOTH",
-"259 391 OFFCURVE",
-"257 393 OFFCURVE",
-"253 393 CURVE SMOOTH",
-"248 393 OFFCURVE",
-"241 387 OFFCURVE",
-"230 374 CURVE SMOOTH",
-"219 361 OFFCURVE",
-"209 355 OFFCURVE",
-"200 355 CURVE SMOOTH",
-"193 355 OFFCURVE",
-"177 362 OFFCURVE",
-"154 377 CURVE SMOOTH",
-"131 392 OFFCURVE",
-"112 400 OFFCURVE",
-"97 400 CURVE SMOOTH",
-"54 400 OFFCURVE",
-"32 385 OFFCURVE",
-"32 356 CURVE SMOOTH",
-"32 335 OFFCURVE",
-"36 325 OFFCURVE",
-"45 325 CURVE SMOOTH",
-"50 325 OFFCURVE",
-"54 330 OFFCURVE",
-"57 340 CURVE SMOOTH",
-"60 352 OFFCURVE",
-"64 360 OFFCURVE",
-"69 363 CURVE SMOOTH",
-"73 365 OFFCURVE",
-"82 366 OFFCURVE",
-"97 366 CURVE SMOOTH",
-"101 366 OFFCURVE",
-"114 359 OFFCURVE",
-"135 345 CURVE SMOOTH",
-"157 331 OFFCURVE",
-"179 324 OFFCURVE",
-"200 324 CURVE SMOOTH"
+(239,324,o),
+(259,345,o),
+(259,386,cs),
+(259,391,o),
+(257,393,o),
+(253,393,cs),
+(248,393,o),
+(241,387,o),
+(230,374,cs),
+(219,361,o),
+(209,355,o),
+(200,355,cs),
+(193,355,o),
+(177,362,o),
+(154,377,cs),
+(131,392,o),
+(112,400,o),
+(97,400,cs),
+(54,400,o),
+(32,385,o),
+(32,356,cs),
+(32,335,o),
+(36,325,o),
+(45,325,cs),
+(50,325,o),
+(54,330,o),
+(57,340,cs),
+(60,352,o),
+(64,360,o),
+(69,363,cs),
+(73,365,o),
+(82,366,o),
+(97,366,cs),
+(101,366,o),
+(114,359,o),
+(135,345,cs),
+(157,331,o),
+(179,324,o),
+(200,324,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"239 274 OFFCURVE",
-"259 295 OFFCURVE",
-"259 336 CURVE SMOOTH",
-"259 341 OFFCURVE",
-"257 343 OFFCURVE",
-"253 343 CURVE SMOOTH",
-"248 343 OFFCURVE",
-"241 337 OFFCURVE",
-"230 324 CURVE SMOOTH",
-"219 311 OFFCURVE",
-"209 305 OFFCURVE",
-"200 305 CURVE SMOOTH",
-"193 305 OFFCURVE",
-"177 312 OFFCURVE",
-"154 327 CURVE SMOOTH",
-"131 342 OFFCURVE",
-"112 350 OFFCURVE",
-"97 350 CURVE SMOOTH",
-"54 350 OFFCURVE",
-"32 335 OFFCURVE",
-"32 306 CURVE SMOOTH",
-"32 285 OFFCURVE",
-"36 275 OFFCURVE",
-"45 275 CURVE SMOOTH",
-"50 275 OFFCURVE",
-"54 280 OFFCURVE",
-"57 290 CURVE SMOOTH",
-"60 302 OFFCURVE",
-"64 310 OFFCURVE",
-"69 313 CURVE SMOOTH",
-"73 315 OFFCURVE",
-"82 316 OFFCURVE",
-"97 316 CURVE SMOOTH",
-"101 316 OFFCURVE",
-"114 309 OFFCURVE",
-"135 295 CURVE SMOOTH",
-"157 281 OFFCURVE",
-"179 274 OFFCURVE",
-"200 274 CURVE SMOOTH"
+(239,274,o),
+(259,295,o),
+(259,336,cs),
+(259,341,o),
+(257,343,o),
+(253,343,cs),
+(248,343,o),
+(241,337,o),
+(230,324,cs),
+(219,311,o),
+(209,305,o),
+(200,305,cs),
+(193,305,o),
+(177,312,o),
+(154,327,cs),
+(131,342,o),
+(112,350,o),
+(97,350,cs),
+(54,350,o),
+(32,335,o),
+(32,306,cs),
+(32,285,o),
+(36,275,o),
+(45,275,cs),
+(50,275,o),
+(54,280,o),
+(57,290,cs),
+(60,302,o),
+(64,310,o),
+(69,313,cs),
+(73,315,o),
+(82,316,o),
+(97,316,cs),
+(101,316,o),
+(114,309,o),
+(135,295,cs),
+(157,281,o),
+(179,274,o),
+(200,274,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 290;
 }
 );
 note = asciitilde;
-unicode = 007E;
+unicode = 126;
 userData = {
 KernOnSpecialSpacing = {
 L = math;

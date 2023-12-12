@@ -3,85 +3,101 @@ glyphname = degree;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"211 347 OFFCURVE",
-"255 380 OFFCURVE",
-"255 438 CURVE SMOOTH",
-"255 494 OFFCURVE",
-"213 554 OFFCURVE",
-"151 554 CURVE SMOOTH",
-"91 554 OFFCURVE",
-"52 510 OFFCURVE",
-"52 452 CURVE SMOOTH",
-"52 397 OFFCURVE",
-"89 347 OFFCURVE",
-"150 347 CURVE SMOOTH"
+(211,347,o),
+(255,380,o),
+(255,438,cs),
+(255,494,o),
+(213,554,o),
+(151,554,cs),
+(91,554,o),
+(52,510,o),
+(52,452,cs),
+(52,397,o),
+(89,347,o),
+(150,347,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"106 371 OFFCURVE",
-"76 415 OFFCURVE",
-"76 460 CURVE SMOOTH",
-"76 502 OFFCURVE",
-"97 523 OFFCURVE",
-"138 523 CURVE SMOOTH",
-"189 523 OFFCURVE",
-"230 482 OFFCURVE",
-"230 430 CURVE SMOOTH",
-"230 391 OFFCURVE",
-"202 371 OFFCURVE",
-"147 371 CURVE SMOOTH"
+(106,371,o),
+(76,415,o),
+(76,460,cs),
+(76,502,o),
+(97,523,o),
+(138,523,cs),
+(189,523,o),
+(230,482,o),
+(230,430,cs),
+(230,391,o),
+(202,371,o),
+(147,371,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"211 347 OFFCURVE",
-"255 380 OFFCURVE",
-"255 438 CURVE SMOOTH",
-"255 494 OFFCURVE",
-"213 554 OFFCURVE",
-"151 554 CURVE SMOOTH",
-"91 554 OFFCURVE",
-"52 510 OFFCURVE",
-"52 452 CURVE SMOOTH",
-"52 397 OFFCURVE",
-"89 347 OFFCURVE",
-"150 347 CURVE SMOOTH"
+(211,347,o),
+(255,380,o),
+(255,438,cs),
+(255,494,o),
+(213,554,o),
+(151,554,cs),
+(91,554,o),
+(52,510,o),
+(52,452,cs),
+(52,397,o),
+(89,347,o),
+(150,347,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"106 371 OFFCURVE",
-"76 415 OFFCURVE",
-"76 460 CURVE SMOOTH",
-"76 502 OFFCURVE",
-"97 523 OFFCURVE",
-"138 523 CURVE SMOOTH",
-"189 523 OFFCURVE",
-"230 482 OFFCURVE",
-"230 430 CURVE SMOOTH",
-"230 391 OFFCURVE",
-"202 371 OFFCURVE",
-"147 371 CURVE SMOOTH"
+(106,371,o),
+(76,415,o),
+(76,460,cs),
+(76,502,o),
+(97,523,o),
+(138,523,cs),
+(189,523,o),
+(230,482,o),
+(230,430,cs),
+(230,391,o),
+(202,371,o),
+(147,371,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 299;
 }
 );
 note = degree;
-unicode = 00B0;
+unicode = 176;
 userData = {
 KernOnSpecialSpacing = {
 L = symbols;

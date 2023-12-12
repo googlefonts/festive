@@ -3,16 +3,32 @@ color = 5;
 glyphname = Ohookabove.ss10;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = O.ss10;
+ref = O.ss10;
 },
 {
-name = hookabovecomb.case;
-transform = "{1, 0, 0, 1, 393, 463}";
+pos = (393,463);
+ref = hookabovecomb.case;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 845;
 }
 );

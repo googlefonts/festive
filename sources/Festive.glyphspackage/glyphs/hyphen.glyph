@@ -4,69 +4,85 @@ glyphname = hyphen;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"217 188 OFFCURVE",
-"270 191 OFFCURVE",
-"287 195 CURVE SMOOTH",
-"305 200 OFFCURVE",
-"312 205 OFFCURVE",
-"312 209 CURVE SMOOTH",
-"312 213 OFFCURVE",
-"304 216 OFFCURVE",
-"291 216 CURVE SMOOTH",
-"253 215 OFFCURVE",
-"200 219 OFFCURVE",
-"154 219 CURVE SMOOTH",
-"133 219 OFFCURVE",
-"113 219 OFFCURVE",
-"96 216 CURVE SMOOTH",
-"77 213 OFFCURVE",
-"58 199 OFFCURVE",
-"65 196 CURVE SMOOTH",
-"81 190 OFFCURVE",
-"123 188 OFFCURVE",
-"167 188 CURVE SMOOTH"
+(217,188,o),
+(270,191,o),
+(287,195,cs),
+(305,200,o),
+(312,205,o),
+(312,209,cs),
+(312,213,o),
+(304,216,o),
+(291,216,cs),
+(253,215,o),
+(200,219,o),
+(154,219,cs),
+(133,219,o),
+(113,219,o),
+(96,216,cs),
+(77,213,o),
+(58,199,o),
+(65,196,cs),
+(81,190,o),
+(123,188,o),
+(167,188,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"217 296 OFFCURVE",
-"270 299 OFFCURVE",
-"287 303 CURVE SMOOTH",
-"305 308 OFFCURVE",
-"312 313 OFFCURVE",
-"312 317 CURVE SMOOTH",
-"312 321 OFFCURVE",
-"304 324 OFFCURVE",
-"291 324 CURVE SMOOTH",
-"253 323 OFFCURVE",
-"200 327 OFFCURVE",
-"154 327 CURVE SMOOTH",
-"133 327 OFFCURVE",
-"113 327 OFFCURVE",
-"96 324 CURVE SMOOTH",
-"77 321 OFFCURVE",
-"58 307 OFFCURVE",
-"65 304 CURVE SMOOTH",
-"81 298 OFFCURVE",
-"123 296 OFFCURVE",
-"167 296 CURVE SMOOTH"
+(217,296,o),
+(270,299,o),
+(287,303,cs),
+(305,308,o),
+(312,313,o),
+(312,317,cs),
+(312,321,o),
+(304,324,o),
+(291,324,cs),
+(253,323,o),
+(200,327,o),
+(154,327,cs),
+(133,327,o),
+(113,327,o),
+(96,324,cs),
+(77,321,o),
+(58,307,o),
+(65,304,cs),
+(81,298,o),
+(123,296,o),
+(167,296,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 328;
 }
 );
 note = hyphen;
-unicode = 002D;
+unicode = 45;
 userData = {
 KernOnName = hyphen;
 KernOnSpecialSpacing = {

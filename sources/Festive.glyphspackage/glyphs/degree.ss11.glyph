@@ -3,80 +3,96 @@ glyphname = degree.ss11;
 layers = (
 {
 background = {
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"296 550 OFFCURVE",
-"348 598 OFFCURVE",
-"348 657 CURVE SMOOTH",
-"348 716 OFFCURVE",
-"296 764 OFFCURVE",
-"232 764 CURVE SMOOTH",
-"167 764 OFFCURVE",
-"116 716 OFFCURVE",
-"116 657 CURVE SMOOTH",
-"116 598 OFFCURVE",
-"167 550 OFFCURVE",
-"232 550 CURVE SMOOTH"
+(296,550,o),
+(348,598,o),
+(348,657,cs),
+(348,716,o),
+(296,764,o),
+(232,764,cs),
+(167,764,o),
+(116,716,o),
+(116,657,cs),
+(116,598,o),
+(167,550,o),
+(232,550,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"197 593 OFFCURVE",
-"170 622 OFFCURVE",
-"170 659 CURVE SMOOTH",
-"170 694 OFFCURVE",
-"197 724 OFFCURVE",
-"232 724 CURVE SMOOTH",
-"267 724 OFFCURVE",
-"294 694 OFFCURVE",
-"294 659 CURVE SMOOTH",
-"294 622 OFFCURVE",
-"267 593 OFFCURVE",
-"232 593 CURVE SMOOTH"
+(197,593,o),
+(170,622,o),
+(170,659,cs),
+(170,694,o),
+(197,724,o),
+(232,724,cs),
+(267,724,o),
+(294,694,o),
+(294,659,cs),
+(294,622,o),
+(267,593,o),
+(232,593,cs)
 );
 }
 );
 };
 layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
-paths = (
+shapes = (
 {
 closed = 1;
 nodes = (
-"296 550 OFFCURVE",
-"348 598 OFFCURVE",
-"348 657 CURVE SMOOTH",
-"348 716 OFFCURVE",
-"296 764 OFFCURVE",
-"232 764 CURVE SMOOTH",
-"167 764 OFFCURVE",
-"116 716 OFFCURVE",
-"116 657 CURVE SMOOTH",
-"116 598 OFFCURVE",
-"167 550 OFFCURVE",
-"232 550 CURVE SMOOTH"
+(296,550,o),
+(348,598,o),
+(348,657,cs),
+(348,716,o),
+(296,764,o),
+(232,764,cs),
+(167,764,o),
+(116,716,o),
+(116,657,cs),
+(116,598,o),
+(167,550,o),
+(232,550,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-"197 593 OFFCURVE",
-"170 622 OFFCURVE",
-"170 659 CURVE SMOOTH",
-"170 694 OFFCURVE",
-"197 724 OFFCURVE",
-"232 724 CURVE SMOOTH",
-"267 724 OFFCURVE",
-"294 694 OFFCURVE",
-"294 659 CURVE SMOOTH",
-"294 622 OFFCURVE",
-"267 593 OFFCURVE",
-"232 593 CURVE SMOOTH"
+(197,593,o),
+(170,622,o),
+(170,659,cs),
+(170,694,o),
+(197,724,o),
+(232,724,cs),
+(267,724,o),
+(294,694,o),
+(294,659,cs),
+(294,622,o),
+(267,593,o),
+(232,593,cs)
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 408;
 }
 );

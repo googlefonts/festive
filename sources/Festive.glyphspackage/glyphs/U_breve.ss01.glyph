@@ -3,16 +3,32 @@ color = 5;
 glyphname = Ubreve.ss01;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = U.ss01;
+ref = U.ss01;
 },
 {
-name = brevecomb.case.ss01;
-transform = "{1, 0, 0, 1, 470, 396}";
+pos = (470,396);
+ref = brevecomb.case.ss01;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 654;
 }
 );

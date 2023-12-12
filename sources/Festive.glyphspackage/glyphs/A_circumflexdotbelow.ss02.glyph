@@ -3,20 +3,36 @@ color = 5;
 glyphname = Acircumflexdotbelow.ss02;
 layers = (
 {
-components = (
+layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+shapes = (
 {
-name = A.ss02;
+ref = A.ss02;
 },
 {
-name = dotbelowcomb;
-transform = "{1, 0, 0, 1, 667, 16}";
+pos = (667,16);
+ref = dotbelowcomb;
 },
 {
-name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 674, 294}";
+pos = (674,294);
+ref = circumflexcomb.case;
 }
 );
-layerId = "04B30934-05D4-410C-A3F8-810C0079C645";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 1029;
 }
 );
