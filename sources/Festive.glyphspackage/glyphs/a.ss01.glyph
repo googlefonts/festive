@@ -14,7 +14,7 @@ pos = (275,-90);
 },
 {
 name = top;
-pos = (219,360);
+pos = (219,330);
 }
 );
 background = {

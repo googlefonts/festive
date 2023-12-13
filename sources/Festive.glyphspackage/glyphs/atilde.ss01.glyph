@@ -137,7 +137,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (124,-7);
+pos = (124,-37);
 ref = tildecomb;
 }
 );

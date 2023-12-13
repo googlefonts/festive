@@ -9,7 +9,7 @@ shapes = (
 ref = a.ss10;
 },
 {
-pos = (176,48);
+pos = (176,58);
 ref = macroncomb;
 }
 );

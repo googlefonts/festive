@@ -6,18 +6,15 @@ hints = (
 {
 horizontal = 1;
 place = (-379, 18);
-place = (-379, 18);
 type = Stem;
 },
 {
 horizontal = 1;
 place = (-117, 202);
-place = (-117, 202);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (170, 29);
 place = (170, 29);
 type = Stem;
 },
@@ -30,16 +27,13 @@ type = BottomGhost;
 {
 horizontal = 1;
 place = (760, 26);
-place = (760, 26);
 type = Stem;
 },
 {
 place = (817, 11);
-place = (817, 11);
 type = Stem;
 },
 {
-place = (983, 327);
 place = (983, 327);
 type = Stem;
 }

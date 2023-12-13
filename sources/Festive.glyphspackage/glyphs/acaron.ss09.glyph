@@ -9,7 +9,7 @@ shapes = (
 ref = a.ss09;
 },
 {
-pos = (155,45);
+pos = (155,55);
 ref = caroncomb;
 }
 );

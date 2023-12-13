@@ -9,7 +9,7 @@ shapes = (
 ref = A.ss09;
 },
 {
-pos = (686,410);
+pos = (686,418);
 ref = hookabovecomb.case;
 }
 );

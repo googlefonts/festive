@@ -6,49 +6,40 @@ hints = (
 {
 horizontal = 1;
 place = (-49, 15);
-place = (-49, 15);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (63, 10);
 place = (63, 10);
 type = Stem;
 },
 {
 horizontal = 1;
 place = (170, 19);
-place = (170, 19);
 type = Stem;
 },
 {
 horizontal = 1;
 place = (225, 13);
-place = (225, 13);
 type = Stem;
 },
 {
-place = (1179, 36);
 place = (1179, 36);
 type = Stem;
 },
 {
 place = (1348, 34);
-place = (1348, 34);
 type = Stem;
 },
 {
-place = (1443, 18);
 place = (1443, 18);
 type = Stem;
 },
 {
 place = (1620, 28);
-place = (1620, 28);
 type = Stem;
 },
 {
-place = (1783, 28);
 place = (1783, 28);
 type = Stem;
 }

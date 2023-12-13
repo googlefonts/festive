@@ -9,7 +9,7 @@ shapes = (
 ref = A.ss06;
 },
 {
-pos = (722,267);
+pos = (722,287);
 ref = circumflexcomb_acutecomb.case;
 }
 );

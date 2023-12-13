@@ -9,7 +9,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (606,0);
+pos = (609,0);
 ref = J;
 }
 );
@@ -29,7 +29,7 @@ com.hugojourdan.ColorFlow = {
 "9" = 0;
 };
 };
-width = 1201;
+width = 1204;
 }
 );
 unicode = 306;

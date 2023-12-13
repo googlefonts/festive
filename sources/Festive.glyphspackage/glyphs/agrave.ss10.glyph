@@ -9,7 +9,7 @@ shapes = (
 ref = a.ss10;
 },
 {
-pos = (172,38);
+pos = (172,48);
 ref = gravecomb;
 }
 );

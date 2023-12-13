@@ -6,12 +6,10 @@ hints = (
 {
 horizontal = 1;
 place = (50, 59);
-place = (50, 59);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (199, 19);
 place = (199, 19);
 type = Stem;
 },
@@ -23,16 +21,13 @@ type = BottomGhost;
 },
 {
 place = (93, 59);
-place = (93, 59);
 type = Stem;
 },
 {
 place = (244, 20);
-place = (244, 20);
 type = Stem;
 },
 {
-place = (326, 21);
 place = (326, 21);
 type = Stem;
 }

@@ -123,7 +123,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (132,-10);
+pos = (132,-40);
 ref = gravecomb;
 }
 );

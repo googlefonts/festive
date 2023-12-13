@@ -395,4 +395,10 @@ width = 694;
 }
 );
 note = three.001;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

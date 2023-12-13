@@ -7,7 +7,6 @@ hints = (
 {
 horizontal = 1;
 place = (366, 32);
-place = (366, 32);
 type = Stem;
 },
 {
@@ -18,7 +17,6 @@ type = TopGhost;
 },
 {
 horizontal = 1;
-place = (480, 32);
 place = (480, 32);
 type = Stem;
 },
@@ -37,7 +35,6 @@ type = BottomGhost;
 {
 horizontal = 1;
 place = (-1, 24);
-place = (-1, 24);
 type = Stem;
 },
 {
@@ -54,16 +51,13 @@ type = TopGhost;
 },
 {
 place = (271, 38);
-place = (271, 38);
 type = Stem;
 },
 {
 place = (352, 23);
-place = (352, 23);
 type = Stem;
 },
 {
-place = (352, 110);
 place = (352, 110);
 type = Stem;
 }

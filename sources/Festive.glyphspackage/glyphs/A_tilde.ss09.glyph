@@ -9,7 +9,7 @@ shapes = (
 ref = A.ss09;
 },
 {
-pos = (676,389);
+pos = (676,397);
 ref = tildecomb.case;
 }
 );

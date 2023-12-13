@@ -9,7 +9,7 @@ shapes = (
 ref = A.ss09;
 },
 {
-pos = (702,398);
+pos = (702,406);
 ref = ringcomb;
 }
 );

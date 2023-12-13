@@ -9,7 +9,7 @@ shapes = (
 ref = a.ss10;
 },
 {
-pos = (152,38);
+pos = (152,48);
 ref = circumflexcomb_hookabovecomb;
 }
 );

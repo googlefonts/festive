@@ -6,7 +6,6 @@ hints = (
 {
 horizontal = 1;
 place = (165, 47);
-place = (165, 47);
 type = Stem;
 },
 {
@@ -16,7 +15,6 @@ target = up;
 type = BottomGhost;
 },
 {
-place = (307, 27);
 place = (307, 27);
 type = Stem;
 }

@@ -9,7 +9,7 @@ shapes = (
 ref = a.ss10;
 },
 {
-pos = (192,38);
+pos = (192,48);
 ref = hookabovecomb;
 }
 );

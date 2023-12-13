@@ -9,7 +9,7 @@ shapes = (
 ref = a.ss09;
 },
 {
-pos = (136,45);
+pos = (136,55);
 ref = circumflexcomb_gravecomb;
 }
 );

@@ -123,7 +123,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (157,-10);
+pos = (157,-40);
 ref = acutecomb;
 }
 );

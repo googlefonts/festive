@@ -20,12 +20,8 @@ shapes = (
 ref = A.ss01;
 },
 {
-pos = (741,293);
-ref = brevecomb.case.ss01;
-},
-{
-pos = (718,401);
-ref = gravecomb.case.ss01;
+pos = (739,293);
+ref = brevecomb_gravecomb.case;
 }
 );
 userData = {

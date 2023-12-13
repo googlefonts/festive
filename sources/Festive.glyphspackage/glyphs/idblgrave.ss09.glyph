@@ -8,7 +8,7 @@ shapes = (
 ref = idotless.ss09;
 },
 {
-pos = (0,-8);
+pos = (-76,-8);
 ref = dblgravecomb;
 }
 );

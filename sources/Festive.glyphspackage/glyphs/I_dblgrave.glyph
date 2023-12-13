@@ -9,7 +9,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (293,245);
+pos = (217,245);
 ref = dblgravecomb;
 }
 );

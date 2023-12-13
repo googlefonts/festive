@@ -77,18 +77,15 @@ hints = (
 {
 horizontal = 1;
 place = (155, 26);
-place = (155, 26);
 type = Stem;
 },
 {
 horizontal = 1;
 place = (427, 35);
-place = (427, 35);
 type = Stem;
 },
 {
 horizontal = 1;
-place = (855, 26);
 place = (855, 26);
 type = Stem;
 },
@@ -100,21 +97,17 @@ type = TopGhost;
 },
 {
 place = (27, 57);
-place = (27, 57);
 type = Stem;
 },
 {
-place = (301, 27);
 place = (301, 27);
 type = Stem;
 },
 {
 place = (848, 36);
-place = (848, 36);
 type = Stem;
 },
 {
-place = (1131, 55);
 place = (1131, 55);
 type = Stem;
 }

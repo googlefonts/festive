@@ -8,7 +8,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (533,386);
+pos = (457,386);
 ref = dblgravecomb;
 }
 );

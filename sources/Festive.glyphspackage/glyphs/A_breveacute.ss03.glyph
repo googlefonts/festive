@@ -9,7 +9,7 @@ shapes = (
 ref = A.ss03;
 },
 {
-pos = (653,284);
+pos = (653,304);
 ref = brevecomb_acutecomb.case;
 }
 );

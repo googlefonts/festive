@@ -8,7 +8,8 @@ shapes = (
 ref = h;
 },
 {
-pos = (75,-15);
+alignment = -1;
+pos = (-59,14);
 ref = cedillacomb;
 }
 );

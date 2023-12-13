@@ -9,7 +9,7 @@ shapes = (
 ref = A.ss04;
 },
 {
-pos = (618,344);
+pos = (618,314);
 ref = gravecomb.case;
 }
 );

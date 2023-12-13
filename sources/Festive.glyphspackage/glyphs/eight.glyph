@@ -212,4 +212,11 @@ width = 499;
 );
 note = eight;
 unicode = 56;
+userData = {
+KernOnName = eight;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

@@ -8,7 +8,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (152,-10);
+pos = (152,-40);
 ref = hookabovecomb;
 }
 );

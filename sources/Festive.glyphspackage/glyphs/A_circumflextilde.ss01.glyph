@@ -21,11 +21,7 @@ ref = A.ss01;
 },
 {
 pos = (727,293);
-ref = circumflexcomb.case.ss01;
-},
-{
-pos = (674,397);
-ref = tildecomb.case.ss01;
+ref = circumflexcomb_tildecomb.case;
 }
 );
 userData = {

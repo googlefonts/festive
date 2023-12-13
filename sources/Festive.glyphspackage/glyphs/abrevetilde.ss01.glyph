@@ -8,7 +8,7 @@ shapes = (
 ref = a.ss01;
 },
 {
-pos = (114,-10);
+pos = (114,-40);
 ref = brevecomb_tildecomb;
 }
 );

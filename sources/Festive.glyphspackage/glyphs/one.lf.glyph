@@ -166,4 +166,10 @@ width = 261;
 }
 );
 note = one;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
 }

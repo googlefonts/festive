@@ -13,7 +13,7 @@ pos = (629,0);
 ref = dotbelowcomb;
 },
 {
-pos = (638,294);
+pos = (638,314);
 ref = brevecomb.case;
 }
 );
