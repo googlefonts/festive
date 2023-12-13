@@ -36,5 +36,5 @@ com.hugojourdan.ColorFlow = {
 width = 951;
 }
 );
-unicode = 506;
+unicode = (506,507);
 }
